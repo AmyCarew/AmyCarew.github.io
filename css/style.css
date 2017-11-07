@@ -13,7 +13,7 @@ a {
 }
 @media only screen and (max-width: 800px) {
 	.container {
-		width: 1040px;
+		width: device-width;
 	}
 }	
 #mainheading {
@@ -21,6 +21,11 @@ a {
 	width: 753px;
 	height: 230px;
 	float: left;
+}
+@media only screen and (max-width: 800px) {
+	#mainheading {
+		width: 55%;
+	}
 }	
 #nameheading {
 	margin-left: 263px;
