@@ -29,6 +29,12 @@ a {
 	letter-spacing: 0.05em;
 	font-weight: bold;
 }
+@media only screen and (max-width: 800px) {
+	#nameheading {
+		font-size: 4.0em;
+		font-weight: normal;
+	}
+}
 #blogheading {
 	margin-left: 263px;
 	text-align: right;
@@ -65,7 +71,7 @@ img {
 	margin-right: 5px;
 }
 #navigationbox {
-	background: rgb(220,220,180);
+	background: rgb(220,230,180);
 	height: 230px;
 	width: 253px;
 	float: left;
@@ -116,7 +122,7 @@ a:hover {
 }
 #continue {
 	font-size: 1.1em;
-	line-height: 2.0;
+	line-height: 1.5;
 	font-weight: 500;
 	color: firebrick;
 	letter-spacing: 0.04em;
@@ -184,3 +190,13 @@ a:hover {
 	font-weight: 500;
 	color: rgb(160,180,140);
 }
+/*@media only screen and (max-width: 800px) {
+	.mainheading {
+		width: 60%;
+		height: 30%;
+	}
+	.navigationbox	{
+		width: 20%;
+		height: 30%;
+	}
+}*/
