@@ -42,7 +42,7 @@ a {
 #summaryheading {
 	margin-left: 263px;
 	text-align: right;
-	margin-top: 2.6em;
+	margin-top: 63px;
 	font-size: 1.555em;
 	color: ghostwhite;
 	font-family: Baskerville, Garamond, serif;
@@ -65,7 +65,7 @@ img {
 	margin-right: 5px;
 }
 #navigationbox {
-	background: rgb(220,225,180);
+	background: rgb(220,220,180);
 	height: 230px;
 	width: 253px;
 	float: left;
@@ -114,7 +114,7 @@ a:hover {
 	margin-top: 10px;
 	text-align: justify;
 }
-h3 {
+#continue {
 	font-size: 1.1em;
 	line-height: 2.0;
 	font-weight: 500;
