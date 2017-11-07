@@ -7,7 +7,7 @@ a {
 	text-decoration: inherit;
 }
 .container {
-	width: device-width;
+	width: 1366px;
 	height: 230px;
 	margin-top: 20px;
 }
