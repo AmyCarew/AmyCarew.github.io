@@ -11,22 +11,22 @@ a {
 	height: 230px;
 	margin-top: 20px;
 }
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
 	.container {
 		width: device-width;
 	}
-}	
+}*/	
 #mainheading {
 	background: rgb(60,79,79);
 	width: 753px;
 	height: 230px;
 	float: left;
 }
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
 	#mainheading {
 		width: 55%;
 	}
-}	
+}*/	
 #nameheading {
 	margin-left: 263px;
 	text-align: right;
@@ -39,12 +39,12 @@ a {
 	letter-spacing: 0.05em;
 	font-weight: bold;
 }
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
 	#nameheading {
 		font-size: 4.0em;
 		font-weight: normal;
 	}
-}
+}*/
 #blogheading {
 	margin-left: 263px;
 	text-align: right;
@@ -86,11 +86,11 @@ img {
 	width: 253px;
 	float: left;
 }
-@media only screen and (max-width: 800px) {
+/*@media only screen and (max-width: 800px) {
 	#navigationbox {
 		width: 90px;
 	}
-}
+}*/
 #navigation {
 	font-size: 25px;
 	font-family: helvetica;
@@ -205,13 +205,3 @@ a:hover {
 	font-weight: 500;
 	color: rgb(160,180,140);
 }
-/*@media only screen and (max-width: 800px) {
-	.mainheading {
-		width: 60%;
-		height: 30%;
-	}
-	.navigationbox	{
-		width: 20%;
-		height: 30%;
-	}
-}*/
