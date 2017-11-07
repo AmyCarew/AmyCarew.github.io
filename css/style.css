@@ -76,6 +76,11 @@ img {
 	width: 253px;
 	float: left;
 }
+@media only screen and (max-width: 800px) {
+	#navigationbox {
+		width: 90px;
+	}
+}
 #navigation {
 	font-size: 25px;
 	font-family: helvetica;
