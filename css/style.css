@@ -249,7 +249,7 @@ a:hover {
 	width: 258px;
 	}
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
 	.container {
 		width: 768px;
 		height: 160px;
