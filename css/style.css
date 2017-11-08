@@ -13,7 +13,7 @@ a {
 }
 @media only screen and (max-width: 800px) {
 	.container {
-		width: device-width;
+		width: 800px;
 		height: 150px;
 	}
 }	
