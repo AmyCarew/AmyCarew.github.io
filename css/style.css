@@ -190,21 +190,22 @@ a:hover {
 		height: 160px;
 	}
 	#mainheading {
-		width: 440px;
+		width: 443px;
 		height: 160px;
 	}
 	#nameheading {
 		font-size: 3.5em;
 		margin-left: 75px;
+		font-weight: normal;
 	}
 	#blogheading {
 		font-size: 3.5em;
 		margin-left: 75px;
 	}
 	#summaryheading {
-		font-size: 1.5em;
+		font-size: 1.2em;
 		margin-left: 75px;
-		margin-top: 50px;
+		margin-top: 30px;
 	}
 	img {
 		width: 240px;
@@ -219,11 +220,11 @@ a:hover {
 		height: 160px;
 	}
 	#navigation {
-		font-size: 1.5em;
-		margin-top: 70px;
+		font-size: 1.2em;
+		margin-top: 50px;
 	}
 	#mainpost {
-		width: 605px;
+		width: 608px;
 		margin-left: 75px;
 	}
 }
