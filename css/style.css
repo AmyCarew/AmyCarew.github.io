@@ -251,54 +251,56 @@ a:hover {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
 	.container {
-		width: 375px;
-		height: 80px;
+		width: 320px;
+		height: 70px;
 	}
 	#mainheading {
-		width: 211px;
-		height: 80px;
+		width: 188px;
+		height: 70px;
 	}
 	#nameheading {
-		font-size: 1.5em;
-		margin-left: 40px;
+		font-size: 0.5em;
+		margin-left: 30px;
 		font-weight: normal;
 		line-height: 15px;
 	}
 	#blogheading {
-		font-size: 1.0em;
-		margin-left: 40px;
+		font-size: 0.5em;
+		margin-left: 30px;
 		line-height: 15px;
 	}
 	#summaryheading {
-		font-size: 0.8em;
-		margin-left: 40px;
+		font-size: 0.5em;
+		margin-left: 30px;
 		margin-top: 10px;
 	}
 	img {
-		width: 120px;
-		height: 80px;
-		margin-left: 2px;
-		margin-right: 2px;
+		width: 100px;
+		height: 70px;
+		margin-left: 1px;
+		margin-right: 1px;
 	}
 	#panel {
-		width: 120px;
-		height: 80px;
+		width: 100px;
+		height: 70px;
+		margin-left: 1px;
+		margin-right: 1px;
 	}
 	#navigationbox {
-		width: 40px;
-		height: 80px;
+		width: 30px;
+		height: 70px;
 	}
 	#navigation {
-		font-size: 0.8em;
-		margin-top: 30px;
+		font-size: 0.5em;
+		margin-top: 10px;
 	}
 	#mainpost {
-		width: 293px;
-		margin-left: 40px;
+		width: 259px;
+		margin-left: 30px;
 	}
 	#previousposts {
-		width: 293px;
-		margin-left: 40px;
+		width: 259px;
+		margin-left: 30px;
 	}
 	#postimage {
 		width: 80px;
