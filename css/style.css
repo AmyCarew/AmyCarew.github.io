@@ -229,4 +229,15 @@ a:hover {
 		width: 608px;
 		margin-left: 75px;
 	}
+	#previousposts {
+		width: 608px;
+		margin-left: 75px;
+	}
+	#postimage {
+		width: 160px;
+		height: 160px;
+	}
+	#imagetitle {
+		width: 160px;
+	}
 }
