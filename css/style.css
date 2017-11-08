@@ -253,19 +253,20 @@ a:hover {
 	.container {
 		width: 375px;
 		height: 80px;
+		margin-top: 20px;
 	}
 	#mainheading {
 		width: 216px;
 		height: 80px;
 	}
 	#nameheading {
-		font-size: 1.5em;
+		font-size: 2.0em;
 		margin-left: 35px;
 		font-weight: normal;
 		line-height: 15px;
 	}
 	#blogheading {
-		font-size: 1.5em;
+		font-size: 1.7em;
 		margin-left: 35px;
 		line-height: 15px;
 	}
@@ -291,12 +292,25 @@ a:hover {
 		height: 80px;
 	}
 	#navigation {
-		font-size: 0.5em;
+		font-size: 0.7em;
 		margin-top: 35px;
 	}
 	#mainpost {
 		width: 303px;
 		margin-left: 35px;
+		margin-top: 20px;
+	}
+	#headline {
+		font-size: 1.2em;
+	}
+	#date {
+		font-size: 1.0em;
+	}
+	#text {
+		font-size: 1.0em;
+	}
+	#continue {
+		font-size: 1.0em;
 	}
 	#previousposts {
 		width: 303px;
