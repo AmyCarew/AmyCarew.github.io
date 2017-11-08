@@ -194,9 +194,10 @@ a:hover {
 		height: 160px;
 	}
 	#nameheading {
-		font-size: 3.5em;
+		font-size: 4.0em;
 		margin-left: 75px;
 		font-weight: normal;
+		line-height: 20px;
 	}
 	#blogheading {
 		font-size: 3.5em;
@@ -205,7 +206,7 @@ a:hover {
 	#summaryheading {
 		font-size: 1.2em;
 		margin-left: 75px;
-		margin-top: 30px;
+		margin-top: 35px;
 	}
 	img {
 		width: 240px;
@@ -221,7 +222,7 @@ a:hover {
 	}
 	#navigation {
 		font-size: 1.2em;
-		margin-top: 50px;
+		margin-top: 60px;
 	}
 	#mainpost {
 		width: 608px;
