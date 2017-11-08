@@ -251,52 +251,52 @@ a:hover {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
 	.container {
-		width: 768px;
-		height: 160px;
+		width: 375px;
+		height: 95px;
 	}
 	#mainheading {
-		width: 443px;
-		height: 160px;
+		width: 216px;
+		height: 95px;
 	}
 	#nameheading {
-		font-size: 4.0em;
-		margin-left: 75px;
+		font-size: 3.0em;
+		margin-left: 43px;
 		font-weight: normal;
 		line-height: 18px;
 	}
 	#blogheading {
-		font-size: 3.5em;
-		margin-left: 75px;
+		font-size: 2.5em;
+		margin-left: 43px;
 		line-height: 18px;
 	}
 	#summaryheading {
 		font-size: 1.2em;
-		margin-left: 75px;
-		margin-top: 32px;
+		margin-left: 43px;
+		margin-top: 40px;
 	}
 	img {
-		width: 240px;
-		height: 160px;
+		width: 138px;
+		height: 95px;
 	}
 	#panel {
-		width: 240px;
-		height: 160px;
+		width: 138px;
+		height: 95px;
 	}
 	#navigationbox {
-		width: 75px;
-		height: 160px;
+		width: 43px;
+		height: 95px;
 	}
 	#navigation {
-		font-size: 1.2em;
+		font-size: 1.1em;
 		margin-top: 70px;
 	}
 	#mainpost {
-		width: 608px;
-		margin-left: 75px;
+		width: 297px;
+		margin-left: 43px;
 	}
 	#previousposts {
-		width: 608px;
-		margin-left: 75px;
+		width: 297px;
+		margin-left: 43px;
 	}
 	#postimage {
 		width: 160px;
@@ -306,11 +306,11 @@ a:hover {
 		width: 160px;
 	}
 	#aboutparagraph {
-	width: 350px;
-	margin-left: 75px;
+	width: 171px;
+	margin-left: 43px;
 	}
 	#mepic {
-	height: 258px;
-	width: 258px;
+	height: 126px;
+	width: 126px;
 	}
 }
