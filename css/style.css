@@ -186,41 +186,44 @@ a:hover {
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.container {
-		width: 175px;
+		width: 775px;
 		height: 200px;
 	}
 	#mainheading {
-		width: 100px;
+		width: 500px;
 		height: 200px;
 	}
 	#nameheading {
-		font-size: 3.0em;
-		font-weight: normal;
+		font-size: 3.5em;
+		margin-left: 75px;
 	}
 	#blogheading {
 		font-size: 4.0em;
+		margin-left: 75px;
 	}
 	#summaryheading {
 		font-size: 1.5em;
+		margin-left: 75px;
+		margin-top: 60px;
 	}
 	img {
-		width: 50px;
+		width: 200px;
 		height: 200px;
 	}
 	#panel {
-		width: 50px;
+		width: 200px;
 		height: 200px;
 	}
 	#navigationbox {
-		width: 25px;
+		width: 75px;
 		height: 200px;
 	}
 	#navigation {
-		font-size: 1.2em;
-		margin-top: 70px;
+		font-size: 1.5em;
+		margin-top: 120px;
 	}
 	#mainpost {
-		width: 100px;
-		margin-left: 25px;
+		width: 625px;
+		margin-left: 75px;
 	}
 }
