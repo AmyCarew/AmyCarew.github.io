@@ -266,9 +266,9 @@ a:hover {
 		line-height: 10px;
 	}
 	#blogheading {
-		font-size: 1.8em;
+		font-size: 1.7em;
 		margin-left: 35px;
-		line-height: 15px;
+		line-height: 10px;
 	}
 	#summaryheading {
 		font-size: 0.5em;
@@ -293,7 +293,7 @@ a:hover {
 	}
 	#navigation {
 		font-size: 0.7em;
-		margin-top: 30px;
+		margin-top: 25px;
 	}
 	#mainpost {
 		width: 303px;
@@ -319,16 +319,22 @@ a:hover {
 	#postimage {
 		width: 80px;
 		height: 80px;
+		margin-right: 20px;
+		margin-left: 0px;
 	}
 	#imagetitle {
 		width: 80px;
+		font-size: 0.5em;
+		margin-bottom: 10px;
 	}
 	#aboutparagraph {
-	width: 171px;
-	margin-left: 40px;
+		width: 181px;
+		margin-left: 35px;
+		margin-right: 2px;
+		font-size: 0.8em;
 	}
 	#mepic {
-	height: 126px;
-	width: 126px;
+		height: 85px;
+		width: 85px;
 	}
 }
