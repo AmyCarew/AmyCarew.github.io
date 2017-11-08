@@ -249,3 +249,68 @@ a:hover {
 	width: 258px;
 	}
 }
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+	.container {
+		width: 768px;
+		height: 160px;
+	}
+	#mainheading {
+		width: 443px;
+		height: 160px;
+	}
+	#nameheading {
+		font-size: 4.0em;
+		margin-left: 75px;
+		font-weight: normal;
+		line-height: 18px;
+	}
+	#blogheading {
+		font-size: 3.5em;
+		margin-left: 75px;
+		line-height: 18px;
+	}
+	#summaryheading {
+		font-size: 1.2em;
+		margin-left: 75px;
+		margin-top: 32px;
+	}
+	img {
+		width: 240px;
+		height: 160px;
+	}
+	#panel {
+		width: 240px;
+		height: 160px;
+	}
+	#navigationbox {
+		width: 75px;
+		height: 160px;
+	}
+	#navigation {
+		font-size: 1.2em;
+		margin-top: 70px;
+	}
+	#mainpost {
+		width: 608px;
+		margin-left: 75px;
+	}
+	#previousposts {
+		width: 608px;
+		margin-left: 75px;
+	}
+	#postimage {
+		width: 160px;
+		height: 160px;
+	}
+	#imagetitle {
+		width: 160px;
+	}
+	#aboutparagraph {
+	width: 350px;
+	margin-left: 75px;
+	}
+	#mepic {
+	height: 258px;
+	width: 258px;
+	}
+}
