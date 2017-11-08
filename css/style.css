@@ -10,46 +10,6 @@ a {
 	width: 1366px;
 	height: 230px;
 	margin-top: 20px;
-}
-@media only screen and (max-width: 1024px) {
-	.container {
-		width: 175px;
-		height: 200px;
-	}
-	#mainheading {
-		width: 100px;
-		height: 200px;
-	}
-	#nameheading {
-		font-size: 3.0em;
-		font-weight: normal;
-	}
-	#blogheading {
-		font-size: 4.0em;
-	}
-	#summaryheading {
-		font-size: 1.5em;
-	}
-	img {
-		width: 50px;
-		height: 200px;
-	}
-	#panel {
-		width: 50px;
-		height: 200px;
-	}
-	#navigationbox {
-		width: 25px;
-		height: 200px;
-	}
-	#navigation {
-		font-size: 1.2em;
-		margin-top: 70px;
-	}
-	#mainpost {
-		width: 100px;
-		margin-left: 25px;
-	}
 }	
 #mainheading {
 	background: rgb(60,79,79);
@@ -223,4 +183,44 @@ a:hover {
 	letter-spacing: 0.04em;
 	font-weight: 500;
 	color: rgb(160,180,140);
+}
+@media only screen and (max-width: 1024px) {
+	.container {
+		width: 175px;
+		height: 200px;
+	}
+	#mainheading {
+		width: 100px;
+		height: 200px;
+	}
+	#nameheading {
+		font-size: 3.0em;
+		font-weight: normal;
+	}
+	#blogheading {
+		font-size: 4.0em;
+	}
+	#summaryheading {
+		font-size: 1.5em;
+	}
+	img {
+		width: 50px;
+		height: 200px;
+	}
+	#panel {
+		width: 50px;
+		height: 200px;
+	}
+	#navigationbox {
+		width: 25px;
+		height: 200px;
+	}
+	#navigation {
+		font-size: 1.2em;
+		margin-top: 70px;
+	}
+	#mainpost {
+		width: 100px;
+		margin-left: 25px;
+	}
 }
