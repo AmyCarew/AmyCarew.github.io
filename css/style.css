@@ -186,11 +186,11 @@ a:hover {
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.container {
-		width: 775px;
+		width: 768px;
 		height: 200px;
 	}
 	#mainheading {
-		width: 500px;
+		width: 483px;
 		height: 200px;
 	}
 	#nameheading {
@@ -223,7 +223,7 @@ a:hover {
 		margin-top: 120px;
 	}
 	#mainpost {
-		width: 625px;
+		width: 608px;
 		margin-left: 75px;
 	}
 }
