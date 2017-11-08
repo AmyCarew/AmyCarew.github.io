@@ -11,10 +11,43 @@ a {
 	height: 230px;
 	margin-top: 20px;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.container {
-		width: 800px;
-		height: 150px;
+		width: 768px;
+		height: 200px;
+	}
+	#mainheading {
+		width: 350px;
+		height: 200px;
+	}
+	#nameheading {
+		font-size: 3.5em;
+	}
+	#blogheading {
+		font-size: 4.0em;
+	}
+	#summaryheading {
+		font-size: 1.5em;
+	}
+	img {
+		width: 200px;
+		height: 200px;
+	}
+	#panel {
+		width: 200px;
+		height: 200px;
+	}
+	#navigationbox {
+		width: 218px;
+		height: 200px;
+	}
+	#navigation {
+		font-size: 1.2em;
+		margin-top: 70px;
+	}
+	#mainpost {
+		width: 550px;
+		margin-left: 218px;
 	}
 }	
 #mainheading {
@@ -22,12 +55,6 @@ a {
 	width: 753px;
 	height: 230px;
 	float: left;
-}
-@media only screen and (max-width: 800px) {
-	#mainheading {
-		width: 55%;
-		height: 150px;
-	}
 }
 #nameheading {
 	margin-left: 263px;
@@ -41,11 +68,6 @@ a {
 	letter-spacing: 0.05em;
 	font-weight: bold;
 }
-@media only screen and (max-width: 800px) {
-	#nameheading {
-		font-size: 3.0em;
-	}
-}
 #blogheading {
 	margin-left: 263px;
 	text-align: right;
@@ -55,11 +77,6 @@ a {
 	letter-spacing: 0.05em;
 	line-height: 20px;
 	font-weight: normal;
-}
-@media only screen and (max-width: 800px) {
-	#blogheading {
-		font-size: 3.5em;
-	}
 }
 #summaryheading {
 	margin-left: 263px;
@@ -71,23 +88,12 @@ a {
 	font-style: italic;
 	letter-spacing: 0.05em;
 }
-@media only screen and (max-width: 800px) {
-	#summaryheading {
-		font-size: 1.2em;
-	}
-}
 img {
 	width: 350px;
 	height: 230px;
 	float: left;
 	margin-left: 5px;
 	margin-right: 5px;
-}
-@media only screen and (max-width: 800px) {
-	img {
-		width: 30%;
-		height: 150px;
-	}
 }
 #panel {
 	width: 350px;
@@ -97,23 +103,11 @@ img {
 	margin-left: 5px;
 	margin-right: 5px;
 }
-@media only screen and (max-width: 800px) {
-	#panel {
-		width: 30%;
-		height: 150px;
-	}
-}
 #navigationbox {
 	background: rgb(220,230,180);
 	height: 230px;
 	width: 253px;
 	float: left;
-}
-@media only screen and (max-width: 800px) {
-	#navigationbox {
-		width: 15%;
-		height: 150px;
-	}
 }
 #navigation {
 	font-size: 25px;
@@ -127,12 +121,6 @@ img {
 	font-weight: 500;
 	margin-top: 108px;
 }
-@media only screen and (max-width: 800px) {
-	#navigation {
-		font-size: 1.2em;
-		margin-top: 50px;
-	}
-}
 a:hover {
 	color: rgb(160,180,140);
 }
@@ -143,12 +131,6 @@ a:hover {
 	float: left;
 	text-align: left;
 	margin-left: 263px;
-}
-@media only screen and (max-width: 800px) {
-	#mainpost {
-		width: 70%;
-		margin-left: 15%;
-	}
 }
 #headline {
 	font-size: 1.9em;
