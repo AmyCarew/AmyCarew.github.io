@@ -11,22 +11,24 @@ a {
 	height: 230px;
 	margin-top: 20px;
 }
-/*@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 	.container {
 		width: device-width;
+		height: 150px;
 	}
-}*/	
+}	
 #mainheading {
 	background: rgb(60,79,79);
 	width: 753px;
 	height: 230px;
 	float: left;
 }
-/*@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 	#mainheading {
 		width: 55%;
+		height: 150px;
 	}
-}*/	
+}
 #nameheading {
 	margin-left: 263px;
 	text-align: right;
@@ -39,12 +41,11 @@ a {
 	letter-spacing: 0.05em;
 	font-weight: bold;
 }
-/*@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 	#nameheading {
-		font-size: 4.0em;
-		font-weight: normal;
+		font-size: 3.0em;
 	}
-}*/
+}
 #blogheading {
 	margin-left: 263px;
 	text-align: right;
@@ -54,6 +55,11 @@ a {
 	letter-spacing: 0.05em;
 	line-height: 20px;
 	font-weight: normal;
+}
+@media only screen and (max-width: 800px) {
+	#blogheading {
+		font-size: 3.5em;
+	}
 }
 #summaryheading {
 	margin-left: 263px;
@@ -65,12 +71,23 @@ a {
 	font-style: italic;
 	letter-spacing: 0.05em;
 }
+@media only screen and (max-width: 800px) {
+	#summaryheading {
+		font-size: 1.2em;
+	}
+}
 img {
 	width: 350px;
 	height: 230px;
 	float: left;
 	margin-left: 5px;
 	margin-right: 5px;
+}
+@media only screen and (max-width: 800px) {
+	img {
+		width: 30%;
+		height: 150px;
+	}
 }
 #panel {
 	width: 350px;
@@ -80,17 +97,24 @@ img {
 	margin-left: 5px;
 	margin-right: 5px;
 }
+@media only screen and (max-width: 800px) {
+	#panel {
+		width: 30%;
+		height: 150px;
+	}
+}
 #navigationbox {
 	background: rgb(220,230,180);
 	height: 230px;
 	width: 253px;
 	float: left;
 }
-/*@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 	#navigationbox {
-		width: 90px;
+		width: 15%;
+		height: 150px;
 	}
-}*/
+}
 #navigation {
 	font-size: 25px;
 	font-family: helvetica;
@@ -102,6 +126,12 @@ img {
 	text-align: left;
 	font-weight: 500;
 	margin-top: 108px;
+}
+@media only screen and (max-width: 800px) {
+	#navigation {
+		font-size: 1.2em;
+		margin-top: 50px;
+	}
 }
 a:hover {
 	color: rgb(160,180,140);
