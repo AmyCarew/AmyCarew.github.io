@@ -240,4 +240,12 @@ a:hover {
 	#imagetitle {
 		width: 160px;
 	}
+	#aboutparagraph {
+	width: 350px;
+	margin-left: 75px;
+	}
+	#mepic {
+	height: 258px;
+	width: 258px;
+	}
 }
