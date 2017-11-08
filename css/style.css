@@ -187,11 +187,11 @@ a:hover {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 	.container {
 		width: 768px;
-		height: 200px;
+		height: 160px;
 	}
 	#mainheading {
-		width: 450px;
-		height: 200px;
+		width: 440px;
+		height: 160px;
 	}
 	#nameheading {
 		font-size: 3.5em;
@@ -204,26 +204,26 @@ a:hover {
 	#summaryheading {
 		font-size: 1.5em;
 		margin-left: 75px;
-		margin-top: 60px;
+		margin-top: 50px;
 	}
 	img {
-		width: 200px;
-		height: 200px;
+		width: 240px;
+		height: 160px;
 	}
 	#panel {
-		width: 200px;
-		height: 200px;
+		width: 240px;
+		height: 160px;
 	}
 	#navigationbox {
 		width: 75px;
-		height: 200px;
+		height: 160px;
 	}
 	#navigation {
 		font-size: 1.5em;
-		margin-top: 120px;
+		margin-top: 70px;
 	}
 	#mainpost {
-		width: 608px;
+		width: 605px;
 		margin-left: 75px;
 	}
 }
