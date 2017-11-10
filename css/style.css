@@ -249,7 +249,7 @@ a:hover {
 	width: 258px;
 	}
 }
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
 	.container {
 		width: 375px;
 		height: 80px;
@@ -347,6 +347,6 @@ a:hover {
 	#mepic {
 		height: 190px;
 		width: 120px;
-		margin-top: 30px;
+		margin-top: 40px;
 	}
 }
