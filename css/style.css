@@ -338,13 +338,15 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#aboutparagraph {
-		width: 171px;
+		width: 169px;
 		margin-left: 40px;
 		margin-right: 2px;
 		font-size: 0.5em;
+		margin-top: 20px;
 	}
 	#mepic {
 		height: 190px;
 		width: 120px;
+		margin-top: 20px;
 	}
 }
