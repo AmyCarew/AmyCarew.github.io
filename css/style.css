@@ -231,25 +231,29 @@ a:hover {
 	}
 	#previousposts {
 		width: 608px;
-		margin-left: 75px;
+		margin-left: 55px;
 	}
 	#postimage {
 		width: 160px;
 		height: 160px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
 	#imagetitle {
 		width: 160px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
 	#aboutparagraph {
-	width: 350px;
-	margin-left: 75px;
-	margin-top: 20px;
+		width: 350px;
+		margin-left: 75px;
+		margin-top: 20px;
 	}
 	#mepic {
-	height: 550px;
-	width: 350px;
-	margin-top: 20px;
-	margin-left: 0;
+		height: 550px;
+		width: 350px;
+		margin-top: 20px;
+		margin-left: 0;
 	}
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
