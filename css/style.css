@@ -236,18 +236,19 @@ a:hover {
 	#postimage {
 		width: 165px;
 		height: 165px;
-		margin-left: 20px;
-		margin-right: 20px;
+		margin-left: 30px;
+		margin-right: 30px;
 	}
 	#imagetitle {
 		width: 165px;
-		margin-left: 20px;
-		margin-right: 20px;
+		margin-left: 30px;
+		margin-right: 30px;
 	}
 	#aboutparagraph {
 		width: 350px;
 		margin-left: 75px;
 		margin-top: 20px;
+		margin-right: 5px;
 	}
 	#mepic {
 		height: 380px;
