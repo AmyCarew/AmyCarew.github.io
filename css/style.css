@@ -329,6 +329,8 @@ a:hover {
 		font-size: 0.4em;
 		margin-bottom: 10px;
 		margin-left: 0px;
+		margin-right: 20px;
+		height: 20px;
 	}
 	#aboutparagraph {
 		width: 181px;
