@@ -148,7 +148,7 @@ a:hover {
 }
 #moreposts {
 	font-family: helvetica;
-	font-size: 18px;
+	font-size: 1.1em;
 	line-height: 2.0;
 	letter-spacing: 0.04em;
 	font-weight: 500;
@@ -302,6 +302,7 @@ a:hover {
 	}
 	#headline {
 		font-size: 1.1em;
+		letter-spacing: 0.02em;
 	}
 	#date {
 		font-size: 0.8em;
@@ -331,6 +332,9 @@ a:hover {
 		margin-left: 10px;
 		margin-right: 10px;
 		height: 20px;
+	}
+	#moreposts {
+		font-size: 0.8em;
 	}
 	#aboutparagraph {
 		width: 181px;
