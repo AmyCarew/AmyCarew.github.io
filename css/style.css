@@ -229,6 +229,9 @@ a:hover {
 		width: 608px;
 		margin-left: 75px;
 	}
+	#headline {
+		line-height: 1.0;
+	}
 	#previousposts {
 		width: 608px;
 		margin-left: 55px;
@@ -245,7 +248,7 @@ a:hover {
 		margin-right: 25px;
 	}
 	#aboutparagraph {
-		width: 363px;
+		width: 368px;
 		margin-left: 75px;
 		margin-top: 20px;
 		margin-right: 5px;
