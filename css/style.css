@@ -303,6 +303,7 @@ a:hover {
 	#headline {
 		font-size: 1.1em;
 		letter-spacing: 0.02em;
+		line-height: 1.0;
 	}
 	#date {
 		font-size: 0.8em;
