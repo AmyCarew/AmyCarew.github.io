@@ -313,22 +313,22 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#previousposts {
-		width: 313px;
-		margin-left: 40px;
+		width: 333px;
+		margin-left: 20px;
 		margin-top: 10px;
 	}
 	#postimage {
 		width: 80px;
 		height: 80px;
 		margin-right: 20px;
-		margin-left: 0px;
+		margin-left: 20px;
 		margin-top: 10px;
 	}
 	#imagetitle {
 		width: 80px;
 		font-size: 0.4em;
 		margin-bottom: 10px;
-		margin-left: 0px;
+		margin-left: 20px;
 		margin-right: 20px;
 		height: 20px;
 	}
