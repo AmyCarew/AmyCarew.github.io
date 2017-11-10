@@ -170,7 +170,7 @@ a:hover {
 	margin-top: 35px;
 	margin-bottom: 40px;
 	margin-left: 5px;
-	height: 350px;
+	height: 550px;
 	width: 350px;
 }
 .footer {
@@ -344,7 +344,7 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#mepic {
-		height: 85px;
-		width: 85px;
+		height: 190px;
+		width: 120px;
 	}
 }
