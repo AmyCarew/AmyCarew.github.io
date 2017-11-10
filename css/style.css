@@ -248,15 +248,15 @@ a:hover {
 		margin-right: 25px;
 	}
 	#aboutparagraph {
-		width: 368px;
+		width: 363px;
 		margin-left: 75px;
 		margin-top: 20px;
-		margin-right: 5px;
+		margin-right: 10px;
 	}
 	#mepic {
 		height: 380px;
 		width: 240px;
-		margin-top: 20px;
+		margin-top: 30px;
 		margin-left: 0;
 	}
 }
