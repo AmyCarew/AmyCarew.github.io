@@ -65,7 +65,7 @@ img {
 	margin-right: 5px;
 }
 #navigationbox {
-	background: rgb(220,230,180);
+	background: rgb(220,210,180);
 	height: 230px;
 	width: 253px;
 	float: left;
@@ -267,7 +267,7 @@ a:hover {
 	}
 	#blogheading {
 		font-size: 1.7em;
-		margin-left: 39px;
+		margin-left: 38px;
 		line-height: 10px;
 	}
 	#summaryheading {
