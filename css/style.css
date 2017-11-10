@@ -158,17 +158,17 @@ a:hover {
 }
 #aboutparagraph {
 	font-family: helvetica;
-	margin-top: 40px;
-	width: 485px;
+	margin-top: 80px;
+	width: 430px;
 	float: left;
 	text-align: left;
 	margin-left: 263px;
 	margin-bottom: 40px;
-	margin-right: 5px;
+	margin-right: 60px;
 }
 #mepic {
-	margin-top: 35px;
-	margin-bottom: 40px;
+	margin-top: 5px;
+	margin-bottom: 20px;
 	margin-left: 5px;
 	height: 550px;
 	width: 350px;
@@ -338,10 +338,10 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#aboutparagraph {
-		width: 181px;
-		margin-left: 35px;
+		width: 171px;
+		margin-left: 40px;
 		margin-right: 2px;
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 	#mepic {
 		height: 190px;
