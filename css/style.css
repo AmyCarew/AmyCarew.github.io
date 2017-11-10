@@ -256,23 +256,23 @@ a:hover {
 		margin-top: 10px;
 	}
 	#mainheading {
-		width: 216px;
+		width: 206px;
 		height: 80px;
 	}
 	#nameheading {
 		font-size: 2.0em;
-		margin-left: 35px;
+		margin-left: 40px;
 		font-weight: normal;
 		line-height: 10px;
 	}
 	#blogheading {
 		font-size: 1.7em;
-		margin-left: 35px;
+		margin-left: 40px;
 		line-height: 10px;
 	}
 	#summaryheading {
-		font-size: 0.5em;
-		margin-left: 35px;
+		font-size: 0.7em;
+		margin-left: 40px;
 		margin-top: 10px;
 	}
 	img {
@@ -288,33 +288,33 @@ a:hover {
 		margin-right: 2px;
 	}
 	#navigationbox {
-		width: 35px;
+		width: 40px;
 		height: 80px;
 	}
 	#navigation {
 		font-size: 0.7em;
-		margin-top: 25px;
+		margin-top: 28px;
 	}
 	#mainpost {
-		width: 303px;
-		margin-left: 35px;
+		width: 293px;
+		margin-left: 40px;
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.2em;
+		font-size: 1.1em;
 	}
 	#date {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	#text {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	#continue {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	#previousposts {
-		width: 303px;
-		margin-left: 35px;
+		width: 293px;
+		margin-left: 40px;
 	}
 	#postimage {
 		width: 80px;
