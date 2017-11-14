@@ -187,9 +187,9 @@ a:hover {
 	font-weight: 500;
 	color: rgb(160,180,140);
 }
-/* css coding for all tablets in portrait only */
+/* css coding for all tablets excluding iPad Pro and Surface Pro 3 */
 
-@media only screen and (min-device-width: 600px) and (max-device-width: 1440px) and (orientation: portrait) {
+@media only screen and (min-device-width: 600px) and (max-device-width: 1023px) {
 	.container {
 		width: 768px;
 		height: 160px;
@@ -266,9 +266,9 @@ a:hover {
 	}
 }
 
-/* css coding for all phones in portrait only */
+/* css coding for all phones */
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 812px) and (orientation: portrait) {
+@media only screen and (max-device-width: 599px) {
 	.container {
 		width: 375px;
 		height: 80px;
