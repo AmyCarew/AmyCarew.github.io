@@ -7,18 +7,18 @@ a {
 	text-decoration: inherit;
 }
 .container {
-	width: 1366px;
+	width: 100%;
 	height: 230px;
 	margin-top: 20px;
 }	
 #mainheading {
 	background: rgb(60,79,79);
-	width: 753px;
+	width: 55%;
 	height: 230px;
 	float: left;
 }
 #nameheading {
-	margin-left: 263px;
+	margin-left: 19%;
 	text-align: right;
 	font-size: 5.5em;
 	font-style: italic;
@@ -30,7 +30,7 @@ a {
 	font-weight: bold;
 }
 #blogheading {
-	margin-left: 263px;
+	margin-left: 19%;
 	text-align: right;
 	font-family: helvetica;
 	font-size: 4.7em;
@@ -40,9 +40,9 @@ a {
 	font-weight: normal;
 }
 #summaryheading {
-	margin-left: 263px;
+	margin-left: 19%;
 	text-align: right;
-	margin-top: 63px;
+	margin-top: 62px;
 	font-size: 1.555em;
 	color: ghostwhite;
 	font-family: Baskerville, Garamond, serif;
@@ -50,24 +50,24 @@ a {
 	letter-spacing: 0.05em;
 }
 img {
-	width: 350px;
+	width: 26%;
 	height: 230px;
 	float: left;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 0.4%;
+	margin-right: 0.4%;
 }
 #panel {
-	width: 350px;
+	width: 26%;
 	height: 230px;
 	background: rgb(160,180,140);
 	float: left;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 0.4%;
+	margin-right: 0.4%;
 }
 #navigationbox {
 	background: rgb(220,230,180);
 	height: 230px;
-	width: 253px;
+	width: 18.2%;
 	float: left;
 }
 #navigation {
@@ -88,10 +88,10 @@ a:hover {
 #mainpost {
 	font-family: helvetica;
 	margin-top: 40px;	
-	width: 840px;
+	width: 61%;
 	float: left;
 	text-align: left;
-	margin-left: 263px;
+	margin-left: 19%;
 }
 #headline {
 	font-size: 1.9em;
