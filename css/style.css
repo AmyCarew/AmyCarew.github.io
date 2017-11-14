@@ -74,7 +74,7 @@ img {
 	float: left;
 }
 #navigation {
-	font-size: 25px;
+	font-size: 1.6em;
 	font-family: helvetica;
 	list-style: none;
 	font-weight: bold;
@@ -126,10 +126,10 @@ a:hover {
 	margin-top: 8px;
 }
 #previousposts {
-	width: 890px;
+	width: 65%;
 	float: left;
 	text-align: left;
-	margin-left: 213px;
+	margin-left: 19%;
 	font-family: helvetica;
 	margin-top: 30px;
 	letter-spacing: 0.04em;
@@ -137,15 +137,15 @@ a:hover {
 #postimage {
 	width: 212px;
 	height: 212px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
 	margin-top: 30px;
 }
 #imagetitle {
 	width: 212px;
 	height: 30px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
 	text-align: center;
 	margin-bottom: 10px;
 }
@@ -155,24 +155,24 @@ a:hover {
 	line-height: 2.0;
 	letter-spacing: 0.04em;
 	font-weight: 500;
-	margin-top: 10px;
-	margin-bottom: 20px;
+	margin-top: 2%;
+	margin-bottom: 1.5%;
 	color: firebrick;
 }
 #aboutparagraph {
 	font-family: helvetica;
 	margin-top: 80px;
-	width: 430px;
+	width: 31%;
 	float: left;
 	text-align: left;
-	margin-left: 263px;
+	margin-left: 19%;
 	margin-bottom: 40px;
-	margin-right: 60px;
+	margin-right: 4%;
 }
 #mepic {
 	margin-top: 5px;
 	margin-bottom: 20px;
-	margin-left: 5px;
+	margin-left: 1.5%;
 	height: 550px;
 	width: 350px;
 }
@@ -191,39 +191,39 @@ a:hover {
 
 @media only screen and (min-device-width: 600px) and (max-device-width: 1023px) {
 	.container {
-		width: 768px;
+		width: 100%;
 		height: 160px;
 	}
 	#mainheading {
-		width: 443px;
+		width: 58%;
 		height: 160px;
 	}
 	#nameheading {
 		font-size: 4.0em;
-		margin-left: 75px;
+		margin-left: 10%;
 		font-weight: normal;
 		line-height: 18px;
 	}
 	#blogheading {
 		font-size: 3.5em;
-		margin-left: 75px;
+		margin-left: 10%;
 		line-height: 18px;
 	}
 	#summaryheading {
 		font-size: 1.2em;
-		margin-left: 75px;
+		margin-left: 10%;
 		margin-top: 32px;
 	}
 	img {
-		width: 240px;
+		width: 31%;
 		height: 160px;
 	}
 	#panel {
-		width: 240px;
+		width: 31%;
 		height: 160px;
 	}
 	#navigationbox {
-		width: 75px;
+		width: 10%;
 		height: 160px;
 	}
 	#navigation {
@@ -231,14 +231,14 @@ a:hover {
 		margin-top: 70px;
 	}
 	#mainpost {
-		width: 608px;
-		margin-left: 75px;
+		width: 79%;
+		margin-left: 10%;
 	}
 	#headline {
 		line-height: 1.0;
 	}
 	#previousposts {
-		width: 608px;
+		width: 79%;
 		margin-left: 55px;
 	}
 	#postimage {
@@ -253,10 +253,10 @@ a:hover {
 		margin-right: 25px;
 	}
 	#aboutparagraph {
-		width: 363px;
-		margin-left: 75px;
+		width: 47%;
+		margin-left: 10%;
 		margin-top: 20px;
-		margin-right: 10px;
+		margin-right: 2%;
 	}
 	#mepic {
 		height: 380px;
