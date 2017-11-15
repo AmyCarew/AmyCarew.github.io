@@ -332,7 +332,9 @@ a:hover {
 	#previousposts {
 		
 	}
-	
+	#poststable {
+		margin-left: 10%;
+	}
 	#postimage {
 		height: 72px;
 		width: 72px;
