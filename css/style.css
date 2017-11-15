@@ -215,11 +215,12 @@ a:hover {
 		font-size: 3.5em;
 		margin-left: 10%;
 		line-height: 18px;
+		text-align: right;
 	}
 	#summaryheading {
 		font-size: 1.2em;
 		margin-left: 10%;
-		margin-top: 32px;
+		margin-top: 36px;
 	}
 	img {
 		width: 31%;
@@ -235,7 +236,7 @@ a:hover {
 	}
 	#navigation {
 		font-size: 1.2em;
-		margin-top: 70px;
+		margin-top: 80px;
 	}
 	#mainpost {
 		width: 79%;
