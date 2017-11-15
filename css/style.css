@@ -336,9 +336,8 @@ a:hover {
 	}
 	#poststable td {
 		width: 29.3%;
-		margin-left: 2%;
-		margin-right: 2%;
-		margin-top: 10px;
+		margin-left: 1%;
+		margin-right: 1%;
 		margin-bottom: 10px;
 	}
 	#postimage {
