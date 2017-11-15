@@ -207,20 +207,20 @@ a:hover {
 		height: 100%;
 	}
 	#nameheading {
-		font-size: 10vw;
+		font-size: 50vw;
 		margin-left: 10%;
 		font-weight: normal;
 		line-height: 18px;
 	}
 	#blogheading {
-		font-size: 10vw;
+		font-size: 60vw;
 		margin-left: 10%;
 		line-height: 18px;
 	}
 	#summaryheading {
-		font-size: 5vw;
+		font-size: 10vw;
 		margin-left: 10%;
-		margin-top: 5vh;
+		margin-top: 20vh;
 	}
 	img {
 		width: 31%;
@@ -235,8 +235,8 @@ a:hover {
 		height: 100%;
 	}
 	#navigation {
-		font-size: 1.2em;
-		margin-top: 10vh;
+		font-size: 10vw;
+		margin-top: 50vh;
 	}
 	#mainpost {
 		width: 79%;
