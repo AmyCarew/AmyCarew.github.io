@@ -200,38 +200,39 @@ a:hover {
 	}
 	#leftpanel {
 		width: 10%;
+		height: 100%;
 	}
 	#mainheading {
 		width: 48%;
-		
+		height: 100%;
 	}
 	#nameheading {
-		font-size: 4.0em;
+		
 		margin-left: 10%;
 		font-weight: normal;
 		line-height: 18px;
 	}
 	#blogheading {
-		font-size: 3.5em;
+		
 		margin-left: 10%;
 		line-height: 18px;
 	}
 	#summaryheading {
-		font-size: 1.2em;
+		
 		margin-left: 10%;
 		margin-top: 32px;
 	}
 	img {
 		width: 31%;
-		
+		height: 100%;
 	}
 	#panel {
 		width: 31%;
-		
+		height: 100%;
 	}
 	#navigationbox {
 		width: 10%;
-		
+		height: 100%;
 	}
 	#navigation {
 		font-size: 1.2em;
