@@ -286,12 +286,12 @@ a:hover {
 		line-height: 10px;
 	}
 	#blogheading {
-		font-size: 7vw;
+		font-size: 7.2vw;
 		line-height: 10px;
 	}
 	#summaryheading {
-		font-size: 2vw;
-		margin-top: 10%;
+		font-size: 3vw;
+		margin-top: 8%;
 	}
 	img {
 		width: 32%;
@@ -308,7 +308,7 @@ a:hover {
 	}
 	#navigation {
 		font-size: 3vw;
-		margin-top: 100%;
+		margin-top: 80%;
 	}
 	#mainpost {
 		width: 78%;
