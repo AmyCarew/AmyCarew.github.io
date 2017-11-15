@@ -344,16 +344,10 @@ a:hover {
 	#postimage {
 		width: 70px;
 		height: 70px;
-		margin-right: 8.5px;
-		margin-left: 8.5px;
-		margin-top: 10px;
 	}
 	#imagetitle {
 		width: 70px;
 		font-size: 0.4em;
-		margin-bottom: 10px;
-		margin-left: 8.5px;
-		margin-right: 8.5px;
 		height: 20px;
 	}
 	#moreposts {
