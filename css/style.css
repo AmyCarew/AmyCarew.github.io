@@ -330,8 +330,8 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#previousposts {
-		width: 78.5%;
-		margin-left: 10%;
+		width: 250.8px;
+		margin-left: calc((device-width-250.8px)/2);
 		margin-top: 20px;
 	}
 	#postimage {
@@ -344,7 +344,7 @@ a:hover {
 	#imagetitle {
 		height: 20px;
 		width: 72px;
-		font-size: 2vw;
+		font-size: 1vw;
 		margin-left: 5.8px;
 		margin-right: 5.8px;
 		margin-bottom: 10px;
