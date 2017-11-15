@@ -27,7 +27,6 @@ a {
 	float: left;
 }
 #nameheading {
-	
 	text-align: right;
 	font-size: 6.5vw;
 	font-style: italic;
@@ -39,7 +38,6 @@ a {
 	font-weight: bold;
 }
 #blogheading {
-	
 	text-align: right;
 	font-family: helvetica;
 	font-size: 5.5vw;
@@ -50,7 +48,7 @@ a {
 }
 #summaryheading {
 	text-align: right;
-	margin-top: 13%;
+	margin-top: 10vh;
 	font-size: 1.82vw;
 	color: ghostwhite;
 	font-family: Baskerville, Garamond, serif;
@@ -88,7 +86,7 @@ img {
 	line-height: 1.2;
 	text-align: left;
 	font-weight: 500;
-	margin-top: 43%;
+	margin-top: 17vh;
 }
 a:hover {
 	color: rgb(160,180,140);
@@ -178,8 +176,8 @@ a:hover {
 	margin-top: 5px;
 	margin-bottom: 20px;
 	margin-left: 1.5%;
-	height: 550px;
-	width: 350px;
+	width: 26%;
+	height: auto;
 }
 .footer {
 	position: fixed;
