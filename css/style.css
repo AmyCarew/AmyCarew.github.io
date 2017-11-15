@@ -363,6 +363,7 @@ a:hover {
 		height: 190px;
 		width: 32%;
 		margin-top: 37px;
+		margin-left: 0;
 	}
 }
 /* @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
