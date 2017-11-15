@@ -202,8 +202,7 @@ a:hover {
 		width: 10%;
 	}
 	#mainheading {
-		width: 48%;
-		
+		width: 48%;	
 	}
 	#nameheading {
 		font-size: 4.0em;
@@ -216,23 +215,20 @@ a:hover {
 	}
 	#summaryheading {
 		font-size: 1.2em;
-		margin-top: 40px;
+		margin-top: 30%;
 	}
 	img {
 		width: 31%;
-		
 	}
 	#panel {
 		width: 31%;
-		
 	}
 	#navigationbox {
-		width: 10%;
-		
+		width: 10%;	
 	}
 	#navigation {
 		font-size: 1.2em;
-		margin-top: 90px;
+		margin-top: 60%;
 	}
 	#mainpost {
 		width: 79%;
@@ -243,7 +239,7 @@ a:hover {
 	}
 	#previousposts {
 		width: 79%;
-		margin-left: 55px;
+		margin-left: 10%;
 	}
 	#postimage {
 		width: 165px;
