@@ -337,16 +337,16 @@ a:hover {
 	#postimage {
 		height: 72px;
 		width: 72px;
-		margin-left: 0;
-		margin-right: 11.2px;
+		margin-left: 5.8px;
+		margin-right: 5.8px;
 		margin-top: 10px;
 	}
 	#imagetitle {
 		height: 20px;
 		width: 72px;
 		font-size: 1.5vw;
-		margin-left: 0;
-		margin-right: 11.2px;
+		margin-left: 5.8px;
+		margin-right: 5.8px;
 		margin-bottom: 10px;
 	}
 	#moreposts {
