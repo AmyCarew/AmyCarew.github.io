@@ -198,8 +198,11 @@ a:hover {
 		width: 100%;
 		height: 16%;
 	}
+	#leftpanel {
+		width: 10%;
+	}
 	#mainheading {
-		width: 58%;
+		width: 48%;
 		
 	}
 	#nameheading {
