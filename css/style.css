@@ -339,15 +339,13 @@ a:hover {
 	#postimage {
 		height: 72px;
 		width: 72px;
-		margin-left: 5.8px;
-		margin-right: 5.8px;
+		
 	}
 	#imagetitle {
 		height: 20px;
 		width: 72px;
 		font-size: 0.4em;
-		margin-left: 5.8px;
-		margin-right: 5.8px;
+		
 	}
 	#moreposts {
 		font-size: 0.8em;
