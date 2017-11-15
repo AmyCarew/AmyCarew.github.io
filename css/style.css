@@ -275,23 +275,23 @@ a:hover {
 		margin-top: 10px;
 	}
 	#leftpanel {
-		width: 11%;
+		width: 10%;
 	}
 	#mainheading {
-		width: 45%;
+		width: 46%;
 	}
 	#nameheading {
-		font-size: 2.0em;
+		font-size: 2.0vw;
 		font-weight: normal;
 		line-height: 10px;
 	}
 	#blogheading {
-		font-size: 1.7em;
+		font-size: 1.7vw;
 		line-height: 10px;
 	}
 	#summaryheading {
-		font-size: 0.6em;
-		margin-top: 10px;
+		font-size: 0.6vw;
+		margin-top: 50%;
 	}
 	img {
 		width: 32%;
@@ -307,8 +307,8 @@ a:hover {
 		width: 11%;
 	}
 	#navigation {
-		font-size: 0.7em;
-		margin-top: 28px;
+		font-size: 0.7vw;
+		margin-top: 100%;
 	}
 	#mainpost {
 		width: 78%;
