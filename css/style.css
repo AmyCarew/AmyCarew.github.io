@@ -330,7 +330,8 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#previousposts {
-		margin-left: calc((device-width-250.8px)/2);
+		margin-left: auto;
+		margin-right: auto;
 		margin-top: 20px;
 	}
 	#postimage {
