@@ -330,23 +330,21 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#previousposts {
-		
-	}
-	#poststable {
-		margin-right: 10.5%;
+		width: 78.5%;
+		margin-left: 10%;
 	}
 	#postimage {
 		height: 72px;
-		width: 72px;
-		margin-left: 5.8px;
-		margin-right: 5.8px;
+		width: 83.6px;
+		padding-left: 5.8px;
+		padding-right: 5.8px;
 	}
 	#imagetitle {
 		height: 20px;
-		width: 72px;
+		width: 83.6px;
 		font-size: 0.4em;
-		margin-left: 5.8px;
-		margin-right: 5.8px;
+		padding-left: 5.8px;
+		padding-right: 5.8px;
 		margin-bottom: 10px;
 	}
 	#moreposts {
