@@ -271,7 +271,7 @@ a:hover {
 @media only screen and (max-device-width: 599px) {
 	.container {
 		width: 100%;
-		height: calc(device-width*15%);
+		height: 15%;
 		margin-top: 10px;
 	}
 	#leftpanel {
@@ -330,8 +330,8 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#previousposts {
-		width: 83%;
-		margin-left: 30px;
+		width: 88.5%;
+		margin-left: 10%;
 		margin-top: 10px;
 	}
 	#postimage {
