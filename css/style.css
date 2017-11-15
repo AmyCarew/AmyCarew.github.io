@@ -341,13 +341,12 @@ a:hover {
 		margin-bottom: 10px;
 	}
 	#postimage {
-		width: 70px;
-		height: 70px;
+		
 	}
 	#imagetitle {
-		width: 70px;
+		
 		font-size: 0.4em;
-		height: 20px;
+		
 	}
 	#moreposts {
 		font-size: 0.8em;
