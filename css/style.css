@@ -274,41 +274,37 @@ a:hover {
 		height: 20%;
 		margin-top: 10px;
 	}
+	#leftpanel {
+		width: 11%;
+	}
 	#mainheading {
-		width: 56%;
-		height: 80px;
+		width: 45%;
 	}
 	#nameheading {
 		font-size: 2.0em;
-		margin-left: 11%;
 		font-weight: normal;
 		line-height: 10px;
 	}
 	#blogheading {
 		font-size: 1.7em;
-		margin-left: 10%;
 		line-height: 10px;
 	}
 	#summaryheading {
 		font-size: 0.6em;
-		margin-left: 11%;
 		margin-top: 10px;
 	}
 	img {
 		width: 32%;
-		height: 80px;
 		margin-left: 0.5%;
 		margin-right: 0.5%;
 	}
 	#panel {
 		width: 32%;
-		height: 80px;
 		margin-left: 0.5%;
 		margin-right: 0.5%;
 	}
 	#navigationbox {
 		width: 11%;
-		height: 80px;
 	}
 	#navigation {
 		font-size: 0.7em;
