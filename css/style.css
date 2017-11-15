@@ -335,18 +335,17 @@ a:hover {
 		margin-top: 10px;
 	}
 	#poststable td {
-		width: 20%;
-		margin-left: 1%;
-		margin-right: 1%;
+		width: 72px;
+		margin-left: 5.8px;
+		margin-right: 5.8px;
 		margin-bottom: 10px;
 	}
 	#postimage {
-		
+		height: 72px;
 	}
 	#imagetitle {
-		
+		height: 20px;
 		font-size: 0.4em;
-		
 	}
 	#moreposts {
 		font-size: 0.8em;
