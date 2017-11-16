@@ -356,10 +356,13 @@ a:hover {
 		margin-top: 30px;
 	}
 	.imagegrid a {
-		font-size: 1em;
+		font-size: 0.5em;
 		margin-bottom: 10px;
 		width: calc(33.33%-4px);	
-}
+	}
+	figcaption {
+		display: block;
+	}
 	#moreposts {
 		font-size: 0.8em;
 	}
