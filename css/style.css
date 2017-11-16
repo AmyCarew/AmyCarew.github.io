@@ -159,6 +159,13 @@ a:hover {
 	margin-bottom: 20px;
 	width: calc(33.33%-8px);	
 }
+figure {
+  display: table;
+}
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
 #moreposts {
 	font-family: helvetica;
 	font-size: 1.1em;
