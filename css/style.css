@@ -333,7 +333,7 @@ a:hover {
 		margin-top: 78%;
 	}
 	#navigationnew {
-		font-size: 2.8vw;
+		font-size: 3.5vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
@@ -345,12 +345,12 @@ a:hover {
 	}
 	.navigationbar a {
 		display: block;
-		padding-right: 100px;
+		padding-right: 80px;
 	}
 	#mainpost {
 		width: 79%;
 		margin-left: 10%;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	#headline {
 		font-size: 1.1em;
@@ -358,13 +358,13 @@ a:hover {
 		line-height: 1.0;
 	}
 	#date {
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 	#text {
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 	#continue {
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 	#poststable {
 		margin-left: auto;
