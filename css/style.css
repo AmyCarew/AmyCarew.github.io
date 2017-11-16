@@ -70,23 +70,11 @@ img {
 	margin-left: 0.4%;
 	margin-right: 0.4%;
 }
-#navigationbox {
+#rightpanel {
 	background: rgb(210,210,185);
 	height: 100%;
 	width: 18.2%;
 	float: left;
-}
-#navigation {
-	font-size: 1.9vw;
-	font-family: helvetica;
-	list-style: none;
-	font-weight: bold;
-	color: firebrick;
-	letter-spacing: 0.1em;
-	line-height: 1.2;
-	text-align: left;
-	font-weight: 500;
-	margin-top: 17vh;
 }
 #navigationnew {
 	list-style: none;
@@ -245,7 +233,7 @@ a:hover {
 	#panel {
 		width: 31%;
 	}
-	#navigationbox {
+	#rightpanel {
 		width: 10%;	
 	}
 	#navigation {
@@ -325,12 +313,8 @@ a:hover {
 		margin-left: 0.5%;
 		margin-right: 0.5%;
 	}
-	#navigationbox {
+	#rightpanel {
 		width: 11%;
-	}
-	#navigation {
-		font-size: 2.8vw;
-		margin-top: 78%;
 	}
 	#navigationnew {
 		font-size: 3.5vw;
@@ -444,7 +428,7 @@ a:hover {
 		margin-left: 2px;
 		margin-right: 2px;
 	}
-	#navigationbox {
+	#rightpanel {
 		width: 34px;
 		height: 68px;
 	}
