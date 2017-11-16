@@ -27,7 +27,7 @@ a {
 	float: left;
 }
 #nameheading {
-	text-align: right;
+	text-align: left;
 	font-size: 6.5vw;
 	font-style: italic;
 	height: 0.7em;
@@ -38,7 +38,7 @@ a {
 	font-weight: bold;
 }
 #blogheading {
-	text-align: right;
+	text-align: left;
 	font-family: helvetica;
 	font-size: 4.95vw;
 	color: ghostwhite;
@@ -47,7 +47,7 @@ a {
 	font-weight: normal;
 }
 #summaryheading {
-	text-align: right;
+	text-align: left;
 	margin-top: 10vh;
 	font-size: 1.82vw;
 	color: ghostwhite;
