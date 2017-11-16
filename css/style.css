@@ -360,9 +360,6 @@ a:hover {
 		margin-bottom: 10px;
 		width: calc(33.33%-4px);	
 	}
-	figcaption {
-		display: block;
-	}
 	#moreposts {
 		font-size: 0.8em;
 	}
