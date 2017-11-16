@@ -228,7 +228,7 @@ figcaption {
 	}
 	#summaryheading {
 		font-size: 1.5em;
-		margin-top: 12%;
+		margin-top: 10%;
 	}
 	#mainpic img {
 		width: 31%;
@@ -259,8 +259,8 @@ figcaption {
 		line-height: 1.0;
 	}
 	.imagegrid img {
-		width: 120px;
-		height: 120px;
+		width: 180px;
+		height: 180px;
 	}
 	.imagegrid {
 		margin-left: 10%;
