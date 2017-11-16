@@ -223,25 +223,33 @@ figcaption {
 		line-height: 18px;
 	}
 	#blogheading {
-		font-size: 3.5em;
+		font-size: 3em;
 		line-height: 18px;
 	}
 	#summaryheading {
 		font-size: 1.2em;
 		margin-top: 15%;
 	}
-	img {
-		width: 31%;
-	}
-	#panel {
+	#mainpic img {
 		width: 31%;
 	}
 	#rightpanel {
 		width: 10%;	
 	}
-	#navigation {
-		font-size: 1.2em;
-		margin-top: 125%;
+	#navigationnew {
+		font-size: 2.5vw;
+		margin-left: 10%;
+	}
+	.navigationbar {
+		height: 4.5%;
+		margin-top: 0.4%;
+	}
+	.navigationbar li {
+		float: left;
+	}
+	.navigationbar a {
+		display: block;
+		padding-right: 80px;
 	}
 	#mainpost {
 		width: 79%;
