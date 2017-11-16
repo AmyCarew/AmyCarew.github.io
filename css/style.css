@@ -111,7 +111,7 @@ img {
 	padding-right: 80px;
 }
 a:hover {
-	color: rgb(160,180,140);
+	color: rgb(60,79,79);
 }
 #mainpost {
 	font-family: helvetica;
@@ -146,7 +146,7 @@ a:hover {
 	font-size: 1.1em;
 	line-height: 1.5;
 	font-weight: 500;
-	color: firebrick;
+	color: rgb(160,160,140);
 	letter-spacing: 0.04em;
 	margin-top: 8px;
 }
@@ -182,7 +182,7 @@ a:hover {
 	font-weight: 500;
 	margin-top: 2%;
 	margin-bottom: 1.5%;
-	color: firebrick;
+	color: rgb(160,160,140);
 }
 #aboutparagraph {
 	font-family: helvetica;
