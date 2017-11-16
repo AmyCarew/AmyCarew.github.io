@@ -271,7 +271,7 @@ figcaption {
 		font-size: 1em;
 		line-height: 1.1;
 		margin-bottom: 20px;
-		width: calc(33.33%-8px);	
+		width: calc(33.33%-20px);	
 	}
 	#aboutparagraph {
 		width: 79%;
