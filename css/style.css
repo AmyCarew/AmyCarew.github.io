@@ -101,7 +101,7 @@ img {
 .navigationbar {
 	height: 5.5%;
 	margin-top: 0.4%;
-	background: rgb(220,230,180);
+	background: rgb(210,200,180);
 }
 .navigationbar li {
 	float: left;
@@ -303,17 +303,17 @@ a:hover {
 		width: 46%;
 	}
 	#nameheading {
-		font-size: 8.5vw;
+		font-size: 8vw;
 		font-weight: normal;
 		line-height: 10px;
 	}
 	#blogheading {
 		font-size: 6.5vw;
-		line-height: 9px;
+		line-height: 8px;
 	}
 	#summaryheading {
 		font-size: 2.5vw;
-		margin-top: 0;
+		margin-top: 5px;
 	}
 	img {
 		width: 32%;
