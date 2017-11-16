@@ -40,7 +40,7 @@ a {
 #blogheading {
 	text-align: right;
 	font-family: helvetica;
-	font-size: 5.5vw;
+	font-size: 4.95vw;
 	color: ghostwhite;
 	letter-spacing: 0.05em;
 	line-height: 20px;
@@ -88,12 +88,34 @@ img {
 	font-weight: 500;
 	margin-top: 17vh;
 }
+#navigationnew {
+	list-style: none;
+	font-size: 1.9vw;
+	font-family: helvetica;
+	font-weight: normal;
+	color: firebrick;
+	letter-spacing: 0.1em;
+	line-height: 1.2;
+	margin-left: 19%;
+}
+.navigationbar {
+	height: 5.5%;
+	margin-top: 0.4%;
+	background: rgb(220,230,180);
+}
+.navigationbar li {
+	float: left;
+}
+.navigationbar a {
+	display: block;
+	padding-right: 80px;
+}
 a:hover {
 	color: rgb(160,180,140);
 }
 #mainpost {
 	font-family: helvetica;
-	margin-top: 40px;	
+	margin-top: 20px;	
 	width: 61%;
 	float: left;
 	text-align: left;
@@ -309,6 +331,21 @@ a:hover {
 	#navigation {
 		font-size: 2.8vw;
 		margin-top: 78%;
+	}
+	#navigationnew {
+		font-size: 2.8vw;
+		margin-left: 10%;
+	}
+	.navigationbar {
+		height: 5.5%;
+		margin-top: 0.4%;
+	}
+	.navigationbar li {
+		float: left;
+	}
+	.navigationbar a {
+		display: block;
+		padding-right: 80px;
 	}
 	#mainpost {
 		width: 79%;
