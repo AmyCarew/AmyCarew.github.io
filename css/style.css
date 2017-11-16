@@ -162,6 +162,10 @@ a:hover {
 	text-align: center;
 	margin-bottom: 10px;
 }
+.imagegrid img {
+	width: 200px;
+	height: 200px;
+}
 .imagegrid {
 	font-size: 0;
 	display: flex;
@@ -175,10 +179,8 @@ a:hover {
 	font-size: 10px;
 	display: inline-block;
 	margin-bottom: 8px;
-	width: calc(25%-4px);
-	
+	width: calc(33.33%-4px);	
 }
-
 #moreposts {
 	font-family: helvetica;
 	font-size: 1.1em;
@@ -365,6 +367,25 @@ a:hover {
 	#continue {
 		font-size: 0.9em;
 	}
+	.imagegrid img {
+		width: 70px;
+		height: 70px;
+	}
+	.imagegrid {
+		font-size: 0;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		margin-left: 10%;
+		margin-right: 10%;
+		margin-top: 20px;
+	}
+	.imagegrid a {
+		font-size: 10px;
+		display: inline-block;
+		margin-bottom: 8px;
+		width: calc(33.33%-4px);	
+}
 	#poststable {
 		margin-left: auto;
 		margin-right: auto;
