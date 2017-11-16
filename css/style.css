@@ -40,7 +40,7 @@ a {
 #blogheading {
 	text-align: right;
 	font-family: helvetica;
-	font-size: 4.95vw;
+	font-size: 4.9vw;
 	color: ghostwhite;
 	letter-spacing: 0.05em;
 	line-height: 20px;
@@ -65,7 +65,7 @@ img {
 #panel {
 	width: 26%;
 	height: 100%;
-	background: rgb(160,180,140);
+	background: rgb(150,150,130);
 	float: left;
 	margin-left: 0.4%;
 	margin-right: 0.4%;
