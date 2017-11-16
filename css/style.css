@@ -71,7 +71,7 @@ img {
 	margin-right: 0.4%;
 }
 #navigationbox {
-	background: rgb(210,210,185);
+	background: rgb(160,160,140);
 	height: 100%;
 	width: 18.2%;
 	float: left;
@@ -93,7 +93,7 @@ img {
 	font-size: 1.9vw;
 	font-family: helvetica;
 	font-weight: normal;
-	color: rgb(160,160,140);
+	color: rgb(210,210,185);
 	letter-spacing: 0.1em;
 	line-height: 1.2;
 	margin-left: 19%;
@@ -338,7 +338,7 @@ a:hover {
 	}
 	.navigationbar {
 		height: 2.8%;
-		margin-top: 10px;
+		margin-top: 0.5%;
 	}
 	.navigationbar li {
 		float: left;
