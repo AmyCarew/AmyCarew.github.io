@@ -372,9 +372,8 @@ a:hover {
 		font-size: 0.8em;
 	}
 	#aboutparagraph {
-		width: 79;
+		width: 79%;
 		margin-left: 10%;
-		font-size: 0.6em;
 		margin-top: 20px;
 	}
 	#mepic {
