@@ -140,7 +140,7 @@ a:hover {
 	letter-spacing: 0.04em;
 	font-weight: 500;
 	margin-top: 10px;
-	text-align: justify;
+	text-align: left;
 }
 #continue {
 	font-size: 1.1em;
@@ -210,7 +210,7 @@ a:hover {
 	line-height: 1.5;
 	letter-spacing: 0.04em;
 	font-weight: 500;
-	color: rgb(160,180,140);
+	color: rgb(160,160,140);
 }
 
 /* css coding for all tablets excluding iPad Pro and Surface Pro 3 */
@@ -335,6 +335,7 @@ a:hover {
 	#navigationnew {
 		font-size: 3vw;
 		margin-left: 10%;
+		font-weight: bold;
 	}
 	.navigationbar {
 		height: 2.8%;
