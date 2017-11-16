@@ -71,7 +71,7 @@ img {
 	margin-right: 0.4%;
 }
 #navigationbox {
-	background: rgb(220,230,180);
+	background: rgb(210,210,185);
 	height: 100%;
 	width: 18.2%;
 	float: left;
@@ -93,7 +93,7 @@ img {
 	font-size: 1.9vw;
 	font-family: helvetica;
 	font-weight: normal;
-	color: rgb(170,170,150);
+	color: rgb(160,160,140);
 	letter-spacing: 0.1em;
 	line-height: 1.2;
 	margin-left: 19%;
@@ -313,7 +313,7 @@ a:hover {
 	}
 	#summaryheading {
 		font-size: 2.5vw;
-		margin-top: 5px;
+		margin-top: 11%;
 	}
 	img {
 		width: 32%;
