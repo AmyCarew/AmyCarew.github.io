@@ -55,7 +55,7 @@ a {
 	font-style: italic;
 	letter-spacing: 0.05em;
 }
-img {
+#mainpic img {
 	width: 26%;
 	height: 100%;
 	float: left;
@@ -162,6 +162,23 @@ a:hover {
 	text-align: center;
 	margin-bottom: 10px;
 }
+.imagegrid {
+	font-size: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-left: 19%;
+	margin-right: 19%;
+	margin-top: 20px;
+}
+.imagegrid a {
+	font-size: 16px;
+	display: inline-block;
+	margin-bottom: 8px;
+	width: calc(25%-4px);
+	
+}
+
 #moreposts {
 	font-family: helvetica;
 	font-size: 1.1em;
