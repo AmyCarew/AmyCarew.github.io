@@ -71,7 +71,7 @@ img {
 	margin-right: 0.4%;
 }
 #navigationbox {
-	background: rgb(160,160,140);
+	background: rgb(210,210,185);
 	height: 100%;
 	width: 18.2%;
 	float: left;
@@ -101,7 +101,7 @@ img {
 .navigationbar {
 	height: 5.5%;
 	margin-top: 0.4%;
-	background: rgb(210,210,185);
+	background: rgb(160,160,140);
 }
 .navigationbar li {
 	float: left;
