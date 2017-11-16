@@ -93,7 +93,7 @@ img {
 	font-size: 1.9vw;
 	font-family: helvetica;
 	font-weight: normal;
-	color: rgb(210,210,185);
+	color: rgb(160,160,140);
 	letter-spacing: 0.1em;
 	line-height: 1.2;
 	margin-left: 19%;
@@ -101,7 +101,7 @@ img {
 .navigationbar {
 	height: 5.5%;
 	margin-top: 0.4%;
-	background: rgb(160,160,140);
+	background: rgb(210,210,185);
 }
 .navigationbar li {
 	float: left;
