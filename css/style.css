@@ -536,18 +536,21 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.3em;
+		font-size: 1.4em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
 	#date {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	#text {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 	#continue {
-		font-size: 0.9em;
+		font-size: 0.8em;
+	}
+	#moreposts {
+		font-size: 1.2em;
 	}
 	.imagegrid img {
 		width: 110px;
@@ -561,7 +564,7 @@ figcaption {
 	.imagegrid a {
 		font-size: 0.5em;
 		margin-bottom: 10px;
-		width: calc(40%-20px);	
+		width: calc(33.33%-4px);	
 	}
 	figcaption {
 		margin-top: 5px;
