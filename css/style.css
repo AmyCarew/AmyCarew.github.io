@@ -477,10 +477,10 @@ figcaption {
 	}
 }
 
-@media only screen and (max-device-width: 1000px) and (orientation: landscape){
+@media only screen and (max-device-width: 1000px) and (orientation: landscape) {
 	.container {
 		width: 100%;
-		height: 40%;
+		height: 35%;
 		margin-top: 10px;
 	}
 	#leftpanel {
@@ -500,7 +500,7 @@ figcaption {
 	}
 	#summaryheading {
 		font-size: 2.8vw;
-		margin-top: 7%;
+		margin-top: 9%;
 	}
 	#mainpic img {
 		width: 32%;
@@ -516,11 +516,11 @@ figcaption {
 		width: 11%;
 	}
 	#navigationnew {
-		font-size: 3.8vw;
+		font-size: 3vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
-		height: 12%;
+		height: 8%;
 		margin-top: 0.5%;
 	}
 	.navigationbar li {
@@ -528,7 +528,7 @@ figcaption {
 	}
 	.navigationbar a {
 		display: block;
-		padding-right: 45px;
+		padding-right: 50px;
 	}
 	#mainpost {
 		width: 79%;
@@ -536,7 +536,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.1em;
+		font-size: 1.5em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
@@ -550,8 +550,8 @@ figcaption {
 		font-size: 0.9em;
 	}
 	.imagegrid img {
-		width: 80px;
-		height: 80px;
+		width: 100px;
+		height: 100px;
 	}
 	.imagegrid {
 		margin-left: 10%;
