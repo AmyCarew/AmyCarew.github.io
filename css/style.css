@@ -412,7 +412,115 @@ figcaption {
 		margin-left: 10%;
 	}
 	.navigationbar {
-		height: 3.5%;
+		height: 3.4%;
+		margin-top: 0.5%;
+	}
+	.navigationbar li {
+		float: left;
+	}
+	.navigationbar a {
+		display: block;
+		padding-right: 45px;
+	}
+	#mainpost {
+		width: 79%;
+		margin-left: 10%;
+		margin-top: 20px;
+	}
+	#headline {
+		font-size: 1.1em;
+		letter-spacing: 0.02em;
+		line-height: 1.0;
+	}
+	#date {
+		font-size: 0.9em;
+	}
+	#text {
+		font-size: 0.9em;
+	}
+	#continue {
+		font-size: 0.9em;
+	}
+	.imagegrid img {
+		width: 80px;
+		height: 80px;
+	}
+	.imagegrid {
+		margin-left: 10%;
+		margin-right: 11.5%;
+		margin-top: 30px;
+	}
+	.imagegrid a {
+		font-size: 0.5em;
+		margin-bottom: 10px;
+		width: calc(33.33%-4px);	
+	}
+	figcaption {
+		margin-top: 5px;
+	}
+	#moreposts {
+		font-size: 0.8em;
+	}
+	#aboutparagraph {
+		width: 79%;
+		margin-left: 10%;
+		margin-top: 20px;
+	}
+	#mepic {
+		height: 190px;
+		width: 32%;
+		margin-top: 37px;
+		margin-left: 0;
+	}
+	.footer {
+		font-size: 0.3em;
+	}
+}
+
+@media only screen and (max-device-width: 599px) and (orientation: landscape){
+	.container {
+		width: 100%;
+		height: 15%;
+		margin-top: 10px;
+	}
+	#leftpanel {
+		width: 10%;
+	}
+	#mainheading {
+		width: 46%;
+	}
+	#nameheading {
+		font-size: 8vw;
+		font-weight: normal;
+		line-height: 10px;
+	}
+	#blogheading {
+		font-size: 6.5vw;
+		line-height: 8px;
+	}
+	#summaryheading {
+		font-size: 2.8vw;
+		margin-top: 7%;
+	}
+	#mainpic img {
+		width: 32%;
+		margin-left: 0.5%;
+		margin-right: 0.5%;
+	}
+	#panel {
+		width: 32%;
+		margin-left: 0.5%;
+		margin-right: 0.5%;
+	}
+	#rightpanel {
+		width: 11%;
+	}
+	#navigationnew {
+		font-size: 3.8vw;
+		margin-left: 10%;
+	}
+	.navigationbar {
+		height: 3.4%;
 		margin-top: 0.5%;
 	}
 	.navigationbar li {
