@@ -158,7 +158,7 @@ a:hover {
 	letter-spacing: 0.04em;
 	display: inline-block;
 	margin-bottom: 20px;
-	width: calc(33.33%-8px);	
+	width: calc(33.33%-8px);
 }
 figure {
   display: table;
@@ -166,6 +166,7 @@ figure {
 figcaption {
   display: table-caption;
   caption-side: bottom;
+  margin-top: 10px;
 }
 #moreposts {
 	font-family: helvetica;
