@@ -541,7 +541,7 @@ figcaption {
 		line-height: 1.0;
 	}
 	#date {
-		font-size: 0.7em;
+		font-size: 0.9em;
 	}
 	#text {
 		font-size: 0.8em;
@@ -550,7 +550,7 @@ figcaption {
 		font-size: 0.8em;
 	}
 	#moreposts {
-		font-size: 1.5em;
+		font-size: 2.5em;
 	}
 	.imagegrid img {
 		width: 110px;
