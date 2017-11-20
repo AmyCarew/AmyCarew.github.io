@@ -541,13 +541,13 @@ figcaption {
 		line-height: 1.0;
 	}
 	#date {
-		font-size: 1.1em;
+		font-size: 1.0em;
 	}
 	#text {
-		font-size: 1.1em;
+		font-size: 1.0em;
 	}
 	#continue {
-		font-size: 1.1em;
+		font-size: 1.0em;
 	}
 	.imagegrid img {
 		width: 110px;
