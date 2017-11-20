@@ -499,7 +499,7 @@ figcaption {
 		line-height: 8px;
 	}
 	#summaryheading {
-		font-size: 2.8vw;
+		font-size: 2.5vw;
 		margin-top: 9%;
 	}
 	#mainpic img {
@@ -520,7 +520,7 @@ figcaption {
 		margin-left: 10%;
 	}
 	.navigationbar {
-		height: 8%;
+		height: 7%;
 		margin-top: 0.5%;
 	}
 	.navigationbar li {
@@ -561,7 +561,7 @@ figcaption {
 	.imagegrid a {
 		font-size: 0.5em;
 		margin-bottom: 10px;
-		width: calc(33.33%-4px);	
+		width: calc(33.33%-8px);	
 	}
 	figcaption {
 		margin-top: 5px;
