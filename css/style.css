@@ -238,7 +238,7 @@ figcaption {
 		width: 10.5%;	
 	}
 	#navigationnew {
-		font-size: 2em;
+		font-size: 1.5em;
 		margin-left: 10%;
 	}
 	.navigationbar {
@@ -284,6 +284,22 @@ figcaption {
 		width: 240px;
 		margin-top: 30px;
 		margin-left: 0;
+	}
+}
+
+@media only screen and (min-device-width: 600px) and (max-device-width: 1023px) and (orientation: landscape) {
+	.container {
+		height: 20%;
+	}
+	.navigationbar {
+		height: 4.5%;
+		margin-top: 0.4%;
+	}
+	.imagegrid {
+		margin-top: 40px;
+	}
+	#aboutparagraph {
+		margin-top: 20px;
 	}
 }
 
