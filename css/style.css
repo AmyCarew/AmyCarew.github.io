@@ -384,7 +384,7 @@ figcaption {
 	}
 	#nameheading {
 		font-size: 8.2vw;
-		font-weight: 550;
+		font-weight: 500;
 		line-height: 10px;
 	}
 	#blogheading {
@@ -490,12 +490,12 @@ figcaption {
 		padding-right: 0.5%;
 	}
 	#nameheading {
-		font-size: 8vw;
-		font-weight: normal;
+		font-size: 8.2vw;
+		font-weight: 500;
 		line-height: 12px;
 	}
 	#blogheading {
-		font-size: 6.5vw;
+		font-size: 6vw;
 		line-height: 8px;
 	}
 	#summaryheading {
@@ -534,7 +534,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.4em;
+		font-size: 1.2em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
