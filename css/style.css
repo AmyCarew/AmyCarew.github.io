@@ -33,7 +33,7 @@ a {
 	font-style: italic;
 	height: 0.7em;
 	line-height: 25px;
-	color: rgb(45,65,65);
+	color: rgb(40,60,60);
 	font-family: Baskerville, Garamond, serif;
 	letter-spacing: 0.05em;
 	font-weight: bold;
@@ -219,17 +219,17 @@ figcaption {
 		width: 48%;	
 	}
 	#nameheading {
-		font-size: 3.8em;
-		font-weight: normal;
-		line-height: 18px;
+		font-size: 4.0em;
+		font-weight: 500;
+		line-height: 19px;
 	}
 	#blogheading {
-		font-size: 3.15em;
-		line-height: 18px;
+		font-size: 3em;
+		line-height: 19px;
 	}
 	#summaryheading {
 		font-size: 1.5em;
-		margin-top: 10%;
+		margin-top: 9%;
 	}
 	#mainpic img {
 		width: 31%;
@@ -258,6 +258,7 @@ figcaption {
 	}
 	#headline {
 		line-height: 1.0;
+		font-size: 1.5em;
 	}
 	.imagegrid img {
 		width: 180px;
@@ -290,7 +291,7 @@ figcaption {
 @media only screen and (min-device-width: 1001px) and (max-device-width: 1280px) and (orientation: landscape) {
 	.container {
 		width: 100%;
-		height: 40%;
+		height: 35%;
 	}
 	#leftpanel {
 		width: 10%;
@@ -299,12 +300,12 @@ figcaption {
 		width: 48%;	
 	}
 	#nameheading {
-		font-size: 8vw;
-		font-weight: normal;
+		font-size: 7vw;
+		font-weight: 500;
 		line-height: 18px;
 	}
 	#blogheading {
-		font-size: 6.5vw;
+		font-size: 6vw;
 		line-height: 18px;
 	}
 	#summaryheading {
@@ -338,10 +339,11 @@ figcaption {
 	}
 	#headline {
 		line-height: 1.0;
+		font-size: 1.5em;
 	}
 	.imagegrid img {
-		width: 180px;
-		height: 180px;
+		width: 220px;
+		height: 220px;
 	}
 	.imagegrid {
 		margin-left: 10%;
@@ -352,7 +354,7 @@ figcaption {
 		font-size: 1em;
 		line-height: 1.1;
 		margin-bottom: 20px;
-		width: calc(33.33%-8px);	
+		width: calc(25%-8px);	
 	}
 	#aboutparagraph {
 		width: 79%;
