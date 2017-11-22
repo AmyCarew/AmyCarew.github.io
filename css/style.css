@@ -384,12 +384,12 @@ figcaption {
 	}
 	#nameheading {
 		font-size: 8vw;
-		font-weight: normal;
+		font-weight: 500;
 		line-height: 10px;
 	}
 	#blogheading {
-		font-size: 6.5vw;
-		line-height: 8px;
+		font-size: 6vw;
+		line-height: 15px;
 	}
 	#summaryheading {
 		font-size: 2.8vw;
