@@ -25,6 +25,7 @@ a {
 	width: 36%;
 	height: 100%;
 	float: left;
+	padding-right: 0.4%;
 }
 #nameheading {
 	text-align: right;
@@ -59,16 +60,14 @@ a {
 	width: 26%;
 	height: 100%;
 	float: left;
-	margin-left: 0.4%;
-	margin-right: 0.4%;
+	
 }
 #panel {
 	width: 26%;
 	height: 100%;
 	background: rgb(150,150,130);
 	float: left;
-	margin-left: 0.4%;
-	margin-right: 0.4%;
+	
 }
 #rightpanel {
 	background: rgb(210,210,185);
@@ -153,7 +152,7 @@ a:hover {
 .imagegrid a {
 	font-family: helvetica;
 	font-size: 1em;
-	text-align: center;
+	text-align: left;
 	line-height: 1.1;
 	letter-spacing: 0.04em;
 	display: inline-block;
@@ -167,6 +166,7 @@ figcaption {
   display: table-caption;
   caption-side: bottom;
   margin-top: 10px;
+  color: rgb(60,79,79);
 }
 #moreposts {
 	font-family: helvetica;
