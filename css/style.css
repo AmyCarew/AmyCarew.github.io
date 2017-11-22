@@ -380,6 +380,7 @@ figcaption {
 	}
 	#mainheading {
 		width: 46%;
+		padding-right: 0.5%;
 	}
 	#nameheading {
 		font-size: 8vw;
@@ -396,13 +397,11 @@ figcaption {
 	}
 	#mainpic img {
 		width: 32%;
-		margin-left: 0.5%;
-		margin-right: 0.5%;
+		
 	}
 	#panel {
 		width: 32%;
-		margin-left: 0.5%;
-		margin-right: 0.5%;
+		
 	}
 	#rightpanel {
 		width: 11%;
@@ -488,6 +487,7 @@ figcaption {
 	}
 	#mainheading {
 		width: 46%;
+		padding-right: 0.5%;
 	}
 	#nameheading {
 		font-size: 8vw;
@@ -504,13 +504,11 @@ figcaption {
 	}
 	#mainpic img {
 		width: 32%;
-		margin-left: 0.5%;
-		margin-right: 0.5%;
+		
 	}
 	#panel {
 		width: 32%;
-		margin-left: 0.5%;
-		margin-right: 0.5%;
+	
 	}
 	#rightpanel {
 		width: 11%;
