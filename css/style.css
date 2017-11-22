@@ -492,7 +492,7 @@ figcaption {
 	#nameheading {
 		font-size: 8.2vw;
 		font-weight: 500;
-		line-height: 10px;
+		line-height: 12px;
 	}
 	#blogheading {
 		font-size: 6vw;
@@ -500,7 +500,7 @@ figcaption {
 	}
 	#summaryheading {
 		font-size: 2.5vw;
-		margin-top: 8.5%;
+		margin-top: 8%;
 	}
 	#mainpic img {
 		width: 32%;
@@ -534,7 +534,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.3em;
+		font-size: 1.4em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
