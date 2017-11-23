@@ -56,14 +56,9 @@ a {
 	font-style: italic;
 	letter-spacing: 0.05em;
 }
-#mainpic {
-	width: 25.8%;
-	height: 100%;
-	float: left;
-	overflow: hidden;
-}
+
 #mainpic img {
-	
+	width: 25.8%;
 	height: 100%;
 	float: left;
 }
