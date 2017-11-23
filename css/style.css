@@ -403,10 +403,10 @@ figcaption {
 	}
 	#mainheading {
 		width: 46%;
-		padding-right: 0.5%;
+		padding-right: 0.7%;
 	}
 	#nameheading {
-		font-size: 8.2vw;
+		font-size: 7.9vw;
 		font-weight: 500;
 		line-height: 9px;
 	}
@@ -419,18 +419,18 @@ figcaption {
 		margin-top: 7%;
 	}
 	#mainpic img {
-		width: 32%;
+		width: 31.3%;
 		
 	}
 	#panel {
-		width: 32%;
+		width: 31.3%;
 		
 	}
 	#rightpanel {
 		width: 11%;
 	}
 	#navigationnew {
-		font-size: 3.8vw;
+		font-size: 3.2vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
@@ -450,7 +450,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1em;
+		font-size: 0.9em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
@@ -486,7 +486,7 @@ figcaption {
 	#aboutparagraph {
 		width: 79%;
 		margin-left: 10%;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	#mepic {
 		height: 190px;
@@ -510,34 +510,35 @@ figcaption {
 	}
 	#mainheading {
 		width: 46%;
-		padding-right: 0.5%;
+		padding-right: 0.8%;
 	}
 	#nameheading {
-		font-size: 8.2vw;
+		font-size: 7.9vw;
 		font-weight: 500;
 		line-height: 12px;
 	}
 	#blogheading {
 		font-size: 6vw;
 		line-height: 8px;
+		letter-spacing: 0.03em;
 	}
 	#summaryheading {
 		font-size: 2.5vw;
 		margin-top: 8%;
 	}
 	#mainpic img {
-		width: 32%;
+		width: 31.2%;
 		
 	}
 	#panel {
-		width: 32%;
+		width: 31.2%;
 	
 	}
 	#rightpanel {
 		width: 11%;
 	}
 	#navigationnew {
-		font-size: 3vw;
+		font-size: 2.3vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
@@ -557,18 +558,18 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.4em;
+		font-size: 1.2em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
 	#date {
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 	#text {
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 	#continue {
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 	.imagegrid img {
 		width: 110px;
@@ -593,7 +594,7 @@ figcaption {
 	#aboutparagraph {
 		width: 79%;
 		margin-left: 10%;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	#mepic {
 		height: 190px;
