@@ -404,6 +404,7 @@ figcaption {
 	#mainheading {
 		width: 46%;
 		padding-right: 0.7%;
+		letter-spacing: 0.03em;
 	}
 	#nameheading {
 		font-size: 7.9vw;
@@ -450,7 +451,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 0.9em;
+		font-size: 1.0em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
@@ -513,14 +514,14 @@ figcaption {
 		padding-right: 0.8%;
 	}
 	#nameheading {
-		font-size: 7.9vw;
+		font-size: 7.7vw;
 		font-weight: 500;
 		line-height: 12px;
 	}
 	#blogheading {
 		font-size: 6vw;
 		line-height: 8px;
-		letter-spacing: 0.03em;
+		letter-spacing: 0.06em;
 	}
 	#summaryheading {
 		font-size: 2.5vw;
@@ -538,11 +539,11 @@ figcaption {
 		width: 11%;
 	}
 	#navigationnew {
-		font-size: 2.3vw;
+		font-size: 2.5vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
-		height: 7%;
+		height: 6%;
 		margin-top: 0.5%;
 	}
 	.navigationbar li {
@@ -558,7 +559,7 @@ figcaption {
 		margin-top: 20px;
 	}
 	#headline {
-		font-size: 1.2em;
+		font-size: 0.9em;
 		letter-spacing: 0.02em;
 		line-height: 1.0;
 	}
