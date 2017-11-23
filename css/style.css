@@ -60,11 +60,11 @@ a {
 	width: 25.8%;
 	height: 100%;
 	overflow: hidden;
+	float: left;
 }
 #mainpic img {
 	width: 100%;
 	height: 100%;
-	float: left;
 }
 #panel {
 	width: 26%;
@@ -343,8 +343,13 @@ figcaption {
 		font-size: 2.5vw;
 		margin-top: 10%;
 	}
-	#mainpic img {
+	#mainpic {
 		width: 30%;
+		height: 100%;
+		overflow: hidden;
+	}
+	#mainpic img {
+		width: 100%;
 	}
 	#rightpanel {
 		width: 10.5%;	
@@ -402,7 +407,7 @@ figcaption {
 
 /* css coding for all phones */
 
-@media only screen and (max-device-width: 599px) and (orientation: portrait){
+@media only screen and (max-device-width: 599px) and (orientation: portrait) {
 	.container {
 		width: 100%;
 		height: 15%;
@@ -430,8 +435,13 @@ figcaption {
 		font-size: 2.8vw;
 		margin-top: 7%;
 	}
-	#mainpic img {
+	#mainpic {
 		width: 31.3%;
+		height: 100%;
+		overflow: hidden;
+	}
+	#mainpic img {
+		width: 100%;
 		
 	}
 	#panel {
@@ -538,8 +548,13 @@ figcaption {
 		font-size: 2.5vw;
 		margin-top: 8%;
 	}
-	#mainpic img {
+	#mainpic {
 		width: 31.2%;
+		height: 100%;
+		overflow: hidden;
+	}
+	#mainpic img {
+		width: 100%;
 		
 	}
 	#panel {
