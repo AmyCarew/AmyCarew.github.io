@@ -252,7 +252,7 @@ figcaption {
 		margin-top: 9%;
 	}
 	#mainpic img {
-		width: 31%;
+		width: 30%;
 	}
 	#rightpanel {
 		width: 10.5%;	
@@ -318,9 +318,10 @@ figcaption {
 	}
 	#mainheading {
 		width: 48%;	
+		padding-right: 1%;
 	}
 	#nameheading {
-		font-size: 7vw;
+		font-size: 6.7vw;
 		font-weight: 500;
 		line-height: 18px;
 	}
@@ -333,17 +334,17 @@ figcaption {
 		margin-top: 10%;
 	}
 	#mainpic img {
-		width: 31%;
+		width: 30%;
 	}
 	#rightpanel {
 		width: 10.5%;	
 	}
 	#navigationnew {
-		font-size: 3vw;
+		font-size: 2.5vw;
 		margin-left: 10%;
 	}
 	.navigationbar {
-		height: 7%;
+		height: 6%;
 		margin-top: 0.4%;
 	}
 	.navigationbar li {
@@ -359,7 +360,7 @@ figcaption {
 	}
 	#headline {
 		line-height: 1.0;
-		font-size: 1.5em;
+		font-size: 1.3em;
 	}
 	.imagegrid img {
 		width: 220px;
@@ -379,7 +380,7 @@ figcaption {
 	#aboutparagraph {
 		width: 79%;
 		margin-left: 10%;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	#mepic {
 		height: 380px;
