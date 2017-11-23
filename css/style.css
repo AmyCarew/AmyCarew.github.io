@@ -585,7 +585,7 @@ figcaption {
 	.imagegrid a {
 		font-size: 0.5em;
 		margin-bottom: 10px;
-		width: calc(25%-4px);	
+		width: calc(33.33%-4px);	
 	}
 	figcaption {
 		margin-top: 5px;
