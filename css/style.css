@@ -43,7 +43,7 @@ a {
 	font-family: Arial, sans-serif;
 	font-size: 4.9vw;
 	color: ghostwhite;
-	letter-spacing: 0.053em;
+	letter-spacing: 0.05em;
 	line-height: 14px;
 	font-weight: normal;
 }
@@ -77,12 +77,12 @@ a {
 }
 #navigationnew {
 	list-style: none;
-	font-size: 1.82vw;
+	font-size: 1.75vw;
 	font-family: helvetica;
 	font-weight: normal;
 	color: rgb(150,150,130);
 	letter-spacing: 0.1em;
-	line-height: 1.2;
+	line-height: 1.3;
 	margin-left: 19%;
 }
 .navigationbar {
@@ -180,7 +180,7 @@ figcaption {
 }
 #aboutparagraph {
 	font-family: helvetica;
-	margin-top: 20px;
+	margin-top: 10px;
 	width: 61%;
 	float: left;
 	text-align: left;
@@ -235,15 +235,17 @@ figcaption {
 	}
 	#mainheading {
 		width: 48%;	
+		padding-right: 1%;
 	}
 	#nameheading {
-		font-size: 4.0em;
+		font-size: 3.5em;
 		font-weight: 500;
 		line-height: 19px;
 	}
 	#blogheading {
 		font-size: 3em;
 		line-height: 19px;
+		letter-spacing: 0.07em;
 	}
 	#summaryheading {
 		font-size: 1.5em;
@@ -256,7 +258,7 @@ figcaption {
 		width: 10.5%;	
 	}
 	#navigationnew {
-		font-size: 1.5em;
+		font-size: 1.2em;
 		margin-left: 10%;
 	}
 	.navigationbar {
@@ -276,7 +278,7 @@ figcaption {
 	}
 	#headline {
 		line-height: 1.0;
-		font-size: 1.5em;
+		font-size: 1.3em;
 	}
 	.imagegrid img {
 		width: 180px;
@@ -296,7 +298,7 @@ figcaption {
 	#aboutparagraph {
 		width: 79%;
 		margin-left: 10%;
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	#mepic {
 		height: 380px;
