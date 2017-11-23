@@ -1,5 +1,5 @@
 
-/* general css coding for all computer screens */
+/* general css coding for all computer screens, excluding wide screens */
 
 * {
 	padding: 0;
@@ -203,6 +203,24 @@ figcaption {
 	letter-spacing: 0.04em;
 	font-weight: 500;
 	color: rgb(160,160,140);
+}
+
+/* css coding for wide screens */
+
+@media only screen and (min-device-width: 1680px) {
+	#nameheading {
+		line-height: 28px;
+	}
+	.container {
+		height: 28%;
+	}
+	#summaryheading {
+		margin-top: 9vh;
+	}
+	.navigationbar {
+		height: 4.5%;
+		margin-top: 1%;
+	}
 }
 
 /* css coding for all tablets excluding iPad Pro and Surface Pro 3 */
