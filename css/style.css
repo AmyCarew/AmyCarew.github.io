@@ -253,11 +253,6 @@ figcaption {
 	}
 	#mainpic img {
 		width: 30%;
-		height: 100%;
-	}
-	#mainpic {
-		width: 30%;
-		height: 100%;
 		overflow: hidden;
 	}
 	#rightpanel {
