@@ -25,15 +25,15 @@ a {
 	width: 36%;
 	height: 100%;
 	float: left;
-	padding-right: 0.4%;
+	padding-right: 0.6%;
 }
 #nameheading {
 	text-align: right;
-	font-size: 6.5vw;
+	font-size: 6.1vw;
 	font-style: italic;
 	height: 0.7em;
 	line-height: 25px;
-	color: rgb(42,62,62);
+	color: rgb(40,60,60);
 	font-family: Baskerville, Garamond, serif;
 	letter-spacing: 0.05em;
 	font-weight: bold;
@@ -43,7 +43,7 @@ a {
 	font-family: Arial, sans-serif;
 	font-size: 4.9vw;
 	color: ghostwhite;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.053em;
 	line-height: 14px;
 	font-weight: normal;
 }
@@ -57,7 +57,7 @@ a {
 	letter-spacing: 0.05em;
 }
 #mainpic img {
-	width: 26%;
+	width: 25.8%;
 	height: 100%;
 	float: left;
 	
@@ -77,7 +77,7 @@ a {
 }
 #navigationnew {
 	list-style: none;
-	font-size: 1.9vw;
+	font-size: 1.82vw;
 	font-family: helvetica;
 	font-weight: normal;
 	color: rgb(150,150,130);
@@ -109,7 +109,7 @@ a:hover {
 	margin-left: 19%;
 }
 #headline {
-	font-size: 1.5em;
+	font-size: 1.35em;
 	line-height: 1.8;
 	letter-spacing: 0.04em;
 	font-weight: 500;
@@ -158,7 +158,7 @@ a:hover {
 	display: inline-block;
 	margin-bottom: 20px;
 	width: calc(33.33%-8px);
-}
+}	
 figure {
   display: table;
 }
@@ -166,7 +166,7 @@ figcaption {
   display: table-caption;
   caption-side: bottom;
   margin-top: 10px;
-  color: rgb(60,79,79);
+  color: rgb(150,150,130);
 }
 #moreposts {
 	font-family: helvetica;
@@ -209,7 +209,7 @@ figcaption {
 
 @media only screen and (min-device-width: 1680px) {
 	#nameheading {
-		line-height: 28px;
+		line-height: 26px;
 	}
 	.container {
 		height: 28%;
