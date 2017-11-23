@@ -254,6 +254,9 @@ figcaption {
 	#mainpic img {
 		width: 30%;
 	}
+	#mainpic {
+		overflow: hidden;
+	}
 	#rightpanel {
 		width: 10.5%;	
 	}
