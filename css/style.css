@@ -57,7 +57,7 @@ a {
 	letter-spacing: 0.05em;
 }
 #mainpic {
-	width: 25.8%;
+	width: 25.4%;
 	height: 100%;
 	overflow: hidden;
 	float: left;
@@ -67,7 +67,7 @@ a {
 	height: 100%;
 }
 #panel {
-	width: 26%;
+	width: 25.4%;
 	height: 100%;
 	background: rgb(150,150,130);
 	float: left;
@@ -76,7 +76,7 @@ a {
 #rightpanel {
 	background: rgb(210,210,185);
 	height: 100%;
-	width: 18.2%;
+	width: 19%;
 	float: left;
 }
 #navigationnew {
@@ -107,7 +107,7 @@ a:hover {
 #mainpost {
 	font-family: helvetica;
 	margin-top: 20px;	
-	width: 61%;
+	width: 62%;
 	float: left;
 	text-align: left;
 	margin-left: 19%;
@@ -185,7 +185,7 @@ figcaption {
 #aboutparagraph {
 	font-family: helvetica;
 	margin-top: 10px;
-	width: 61%;
+	width: 62%;
 	float: left;
 	text-align: left;
 	margin-left: 19%;
