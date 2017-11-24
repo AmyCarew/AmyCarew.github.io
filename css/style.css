@@ -637,3 +637,20 @@ figcaption {
 		font-size: 0.3em;
 	}
 }
+
+/* css coding for Samsung S7 and below */
+
+@media only screen and (device-width: 360px) and (device-height: 640px) {
+	#nameheading {
+		font-size: 6.5vw;
+		line-height: 7px;
+	}
+	#blogheading {
+		font-size: 6.5vw;
+		line-height: 9px;
+	}
+	#summaryheading {
+		font-size: 1.5vw;
+		margin-top: 7%;
+	}
+}
