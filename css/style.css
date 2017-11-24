@@ -63,7 +63,7 @@ a {
 	float: left;
 }
 #mainpic img {
-	width: 100%;
+	width: auto;
 	height: 100%;
 }
 #panel {
@@ -261,7 +261,7 @@ figcaption {
 		overflow: hidden;
 	}
 	#mainpic img {
-		width: 100%;
+		width: auto;
 		height: 100%;
 	}
 	#rightpanel {
@@ -351,7 +351,8 @@ figcaption {
 		overflow: hidden;
 	}
 	#mainpic img {
-		width: 100%;
+		width: auto;
+		height: 100%;
 	}
 	#rightpanel {
 		width: 10.5%;	
@@ -443,8 +444,8 @@ figcaption {
 		overflow: hidden;
 	}
 	#mainpic img {
-		width: 100%;
-		
+		height: 100%;
+		width: auto;
 	}
 	#panel {
 		width: 31.3%;
@@ -558,7 +559,8 @@ figcaption {
 		overflow: hidden;
 	}
 	#mainpic img {
-		width: 100%;
+		width: auto;
+		height: 100%;
 		
 	}
 	#panel {
