@@ -533,11 +533,11 @@ figcaption {
 		margin-top: 10px;
 	}
 	#leftpanel {
-		width: 10%;
+		width: 11%;
 	}
 	#mainheading {
 		width: 46%;
-		padding-right: 0.8%;
+		padding-right: 1%;
 	}
 	#nameheading {
 		font-size: 7.7vw;
@@ -554,7 +554,7 @@ figcaption {
 		margin-top: 8%;
 	}
 	#mainpic {
-		width: 31.2%;
+		width: 31%;
 		height: 100%;
 		overflow: hidden;
 	}
@@ -564,7 +564,7 @@ figcaption {
 		
 	}
 	#panel {
-		width: 31.2%;
+		width: 31%;
 	
 	}
 	#rightpanel {
@@ -572,7 +572,7 @@ figcaption {
 	}
 	#navigationnew {
 		font-size: 2.5vw;
-		margin-left: 10%;
+		margin-left: 11%;
 	}
 	.navigationbar {
 		height: 6%;
@@ -586,8 +586,8 @@ figcaption {
 		padding-right: 60px;
 	}
 	#mainpost {
-		width: 79%;
-		margin-left: 10%;
+		width: 78%;
+		margin-left: 11%;
 		margin-top: 20px;
 	}
 	#headline {
@@ -609,8 +609,8 @@ figcaption {
 		height: 110px;
 	}
 	.imagegrid {
-		margin-left: 10%;
-		margin-right: 11.5%;
+		margin-left: 11%;
+		margin-right: 11%;
 		margin-top: 30px;
 	}
 	.imagegrid a {
@@ -625,8 +625,8 @@ figcaption {
 		font-size: 1.2em;
 	}
 	#aboutparagraph {
-		width: 79%;
-		margin-left: 10%;
+		width: 78%;
+		margin-left: 11%;
 		margin-top: 10px;
 	}
 	#mepic {
