@@ -326,7 +326,7 @@ figcaption {
 		height: 35%;
 	}
 	#leftpanel {
-		width: 10%;
+		width: 9%;
 	}
 	#mainheading {
 		width: 48%;	
@@ -346,7 +346,7 @@ figcaption {
 		margin-top: 10%;
 	}
 	#mainpic {
-		width: 30%;
+		width: 33%;
 		height: 100%;
 		overflow: hidden;
 	}
@@ -355,11 +355,11 @@ figcaption {
 		height: 100%;
 	}
 	#rightpanel {
-		width: 10.5%;	
+		width: 9%;	
 	}
 	#navigationnew {
 		font-size: 2.5vw;
-		margin-left: 10%;
+		margin-left: 9%;
 	}
 	.navigationbar {
 		height: 6%;
@@ -373,8 +373,8 @@ figcaption {
 		padding-right: 80px;
 	}
 	#mainpost {
-		width: 79%;
-		margin-left: 10%;
+		width: 82%;
+		margin-left: 9%;
 	}
 	#headline {
 		line-height: 1.0;
@@ -385,8 +385,8 @@ figcaption {
 		height: 220px;
 	}
 	.imagegrid {
-		margin-left: 10%;
-		margin-right: 11.5%;
+		margin-left: 9%;
+		margin-right: 9%;
 		margin-top: 40px;
 	}
 	.imagegrid a {
@@ -396,8 +396,8 @@ figcaption {
 		width: calc(25%-8px);	
 	}
 	#aboutparagraph {
-		width: 79%;
-		margin-left: 10%;
+		width: 82%;
+		margin-left: 9%;
 		margin-top: 10px;
 	}
 	#mepic {
