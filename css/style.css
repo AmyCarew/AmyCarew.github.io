@@ -467,7 +467,7 @@ figcaption {
 	}
 	.navigationbar a {
 		display: block;
-		padding-right: 45px;
+		padding-right: 47px;
 	}
 	#mainpost {
 		width: 78%;
@@ -583,7 +583,7 @@ figcaption {
 	}
 	.navigationbar a {
 		display: block;
-		padding-right: 60px;
+		padding-right: 65px;
 	}
 	#mainpost {
 		width: 78%;
@@ -622,7 +622,7 @@ figcaption {
 		margin-top: 5px;
 	}
 	#moreposts {
-		font-size: 1.2em;
+		font-size: 1em;
 	}
 	#aboutparagraph {
 		width: 78%;
