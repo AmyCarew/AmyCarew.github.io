@@ -644,15 +644,44 @@ figcaption {
 
 @media only screen and (device-width: 360px) and (device-height: 640px) {
 	#nameheading {
-		font-size: 6.5vw;
-		line-height: 7px;
+		font-size: 6.1vw;
+		line-height: 8px;
 	}
 	#blogheading {
-		font-size: 6.5vw;
-		line-height: 9px;
+		font-size: 6.1vw;
+		line-height: 10px;
 	}
 	#summaryheading {
-		font-size: 1.5vw;
-		margin-top: 7%;
+		font-size: 2vw;
+		margin-top: 10%;
+	}
+	.navigationbar {
+		height: 3%;
+	}
+	.navigationbar a {
+		padding-right: 48px;
+	}
+}
+
+/* css coding for iPhone 5 */
+
+@media only screen and (device-width: 320px) {
+	#summaryheading {
+		margin-top: 6%;
+	}
+	.navigationbar a {
+		padding-right: 45px;
+	}
+	#headline {
+		font-size: 0.9em;
+	}
+	#date {
+		font-size: 0.8em;
+	}
+	#text {
+		font-size: 0.8em;
+	}
+	#continue {
+		font-size: 0.8em;
 	}
 }
