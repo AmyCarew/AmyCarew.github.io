@@ -211,7 +211,23 @@ figcaption {
 
 /* css coding for wide screens */
 
-@media only screen and (min-device-width: 1680px) {
+@media only screen and (device-width: 1680px) and (device-height: 1050px) {
+	#nameheading {
+		line-height: 26px;
+	}
+	.container {
+		height: 28%;
+	}
+	#summaryheading {
+		margin-top: 9vh;
+	}
+	.navigationbar {
+		height: 4.5%;
+		margin-top: 1%;
+	}
+}
+
+@media only screen and (device-width: 1920px) and (device-height: 1200px) {
 	#nameheading {
 		line-height: 26px;
 	}
@@ -645,15 +661,15 @@ figcaption {
 @media only screen and (device-width: 360px) and (device-height: 640px) {
 	#nameheading {
 		font-size: 6.1vw;
-		line-height: 8px;
+		line-height: 6px;
 	}
 	#blogheading {
 		font-size: 6.1vw;
-		line-height: 10px;
+		line-height: 11px;
 	}
 	#summaryheading {
 		font-size: 2vw;
-		margin-top: 10%;
+		margin-top: 15%;
 	}
 	.navigationbar {
 		height: 3%;
