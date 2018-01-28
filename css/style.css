@@ -172,6 +172,13 @@ figcaption {
   margin-top: 10px;
   color: rgb(150,150,130);
 }
+#olderposts {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 1em;
+	color: rgb(150,150,130);
+	font-weight: normal;
+}
 #moreposts {
 	font-family: helvetica;
 	font-size: 1.1em;
