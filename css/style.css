@@ -528,6 +528,9 @@ figcaption {
 	figcaption {
 		margin-top: 5px;
 	}
+	#olderposts {
+		font-size: 0.5em;
+	}
 	#moreposts {
 		font-size: 0.8em;
 	}
@@ -643,6 +646,9 @@ figcaption {
 	}
 	figcaption {
 		margin-top: 5px;
+	}
+	#olderposts {
+		font-size: 0.5em;
 	}
 	#moreposts {
 		font-size: 1em;
