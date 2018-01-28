@@ -178,6 +178,7 @@ figcaption {
 	font-size: 1em;
 	color: rgb(150,150,130);
 	font-weight: normal;
+	letter-spacing: 0.04em;
 }
 #moreposts {
 	font-family: helvetica;
