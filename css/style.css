@@ -256,7 +256,7 @@ figcaption {
 @media only screen and (min-device-width: 600px) and (max-device-width: 1024px) and (orientation: portrait) {
 	.container {
 		width: 100%;
-		height: 20%;
+		height: 22%;
 	}
 	#leftpanel {
 		width: 9%;
@@ -276,7 +276,7 @@ figcaption {
 		letter-spacing: 0.07em;
 	}
 	#summaryheading {
-		font-size: 1.5em;
+		font-size: 1.4em;
 		margin-top: 9%;
 	}
 	#mainpic {
@@ -674,8 +674,8 @@ figcaption {
 
 @media only screen and (device-width: 360px) and (device-height: 640px) {
 	#nameheading {
-		font-size: 6.1vw;
-		line-height: 6px;
+		font-size: 5.9vw;
+		line-height: 6.5px;
 	}
 	#blogheading {
 		font-size: 6.1vw;
