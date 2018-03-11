@@ -513,8 +513,8 @@ figcaption {
 		font-size: 0.9em;
 	}
 	.imagegrid img {
-		width: 65px;
-		height: 65px;
+		width: 75px;
+		height: 75px;
 	}
 	.imagegrid {
 		margin-left: 11%;
@@ -522,7 +522,7 @@ figcaption {
 		margin-top: 30px;
 	}
 	.imagegrid a {
-		font-size: 0.4em;
+		font-size: 0.45em;
 		margin-bottom: 10px;
 		width: calc(33.33%-4px);	
 	}
