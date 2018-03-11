@@ -142,8 +142,8 @@ a:hover {
 	margin-top: 8px;
 }
 .imagegrid img {
-	width: 240px;
-	height: 240px;
+	width: 180px;
+	height: 180px;
 }
 .imagegrid {
 	display: flex;
@@ -155,12 +155,12 @@ a:hover {
 }
 .imagegrid a {
 	font-family: helvetica;
-	font-size: 1em;
+	font-size: 0.95em;
 	text-align: left;
 	line-height: 1.1;
 	letter-spacing: 0.04em;
 	display: inline-block;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 	width: calc(33.33%-8px);
 }	
 figure {
@@ -315,8 +315,8 @@ figcaption {
 		font-size: 1.3em;
 	}
 	.imagegrid img {
-		width: 180px;
-		height: 180px;
+		width: 140px;
+		height: 140px;
 	}
 	.imagegrid {
 		margin-left: 9%;
@@ -324,7 +324,7 @@ figcaption {
 		margin-top: 40px;
 	}
 	.imagegrid a {
-		font-size: 1em;
+		font-size: 0.95em;
 		line-height: 1.1;
 		margin-bottom: 20px;
 		width: calc(33.33%-8px);	
@@ -513,8 +513,8 @@ figcaption {
 		font-size: 0.9em;
 	}
 	.imagegrid img {
-		width: 80px;
-		height: 80px;
+		width: 60px;
+		height: 60px;
 	}
 	.imagegrid {
 		margin-left: 11%;
@@ -522,7 +522,7 @@ figcaption {
 		margin-top: 30px;
 	}
 	.imagegrid a {
-		font-size: 0.5em;
+		font-size: 0.4em;
 		margin-bottom: 10px;
 		width: calc(33.33%-4px);	
 	}
